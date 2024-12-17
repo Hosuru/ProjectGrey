@@ -1,3 +1,20 @@
 public enum E_PokeType {
-    BUG, ELECTR, FLYING, GROUND, POISON, STEEL, DARK, FIGHT, GHOST, ICE, PSYCHC, WATER, DRAGON, FIRE, GRASS, NORMAL, ROCK, NULL
+    BUG,
+    ELECTR,
+    FLYING,
+    GROUND,
+    POISON,
+    STEEL,
+    DARK,
+    FIGHT,
+    GHOST,
+    ICE,
+    PSYCHC,
+    WATER,
+    DRAGON,
+    FIRE,
+    GRASS,
+    NORMAL,
+    ROCK,
+    NULL
 }

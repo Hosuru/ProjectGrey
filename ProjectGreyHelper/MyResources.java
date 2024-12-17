@@ -41,9 +41,7 @@ public class MyResources {
                 }
             }
                 output = sc.next().split(separator);
-            
             sc.close();
-
         } catch (FileNotFoundException e) {
             System.err.println("File not found, try again");
             return null;

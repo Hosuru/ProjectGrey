@@ -9,7 +9,7 @@ public class Pokemon {
     private Move movepool[][] = new Move[11][]; // 10 niveles + 1 para los aprendidos por otros medios
     private Move moves[] = new Move[6];         // tratemos de usar un puntero a movepool para aligerar un poco la carga
     private Pokemon prevo[];// Pokemon que evolucionan en this     usa ID
-    private Pokemon evo[];  // Pokemon a los que this evoluciona   usa ID       ADD BASCULEGION, (DEX NUMBER - LAS UNOVA) = POSITION IN LIST
+    private Pokemon evo[];  // Pokemon a los que this evoluciona   usa ID       ADD BASCULEGION, (DEX NUMBER - LAST UNOVA) = POSITION IN LIST
     private String entry;   // Info de la pokedex
     private int level = 1;  // Nivel, donde (1 <= level <= 10)
     private int hp, att, def, sAtt, sDef, spe;
