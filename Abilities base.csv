@@ -1,0 +1,107 @@
+Ability,Habilidad,Effect,Efecto
+Adaptability,Adaptabilidad,Powers up moves of the same type as the Pokémon.,Potencia aún más los movimientos cuyo tipo coincida con el suyo
+Aftermath,Detonacion,Damages the attacker if it knocks out the Pokémon with a move that makes direct contact.,Daña al pokémon que le ha dado el golpe de gracia con un movimiento de contacto
+Analytic,Cálculo final,Boosts the power of the Pokémon's move if it is the last to act that turn.,Aumenta la potencia de su movimiento si es el último en atacar
+Anger Point,Irascible,"The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat.","Si recibe un golpe crítico, monta en cólera y su ataque aumenta al máximo"
+Big Pecks,Sacapecho,Prevents the Pokémon from having its Defense stat lowered.,Impide que otros pokemon le reduzcan la defensa
+Blaze,Mar llamas,Powers up Fire-type moves when the Pokémon's HP is low.,Portencia los movimientos de tipo fuego cuando le quedan pocos PS
+Chlorophyll,Clorofila,Boosts the Pokémon's Speed stat in harsh sunlight.,Aumena la velocidad cuando hace sol
+Clear Body,Cuerpo puro,Prevents other Pokémon's moves or Abilities from lowering the Pokémon's stats.,Evita que se reduzcan sus características a causa de movimientos o habilidades de otros pokemon
+Compound eyes,Ojo compuesto,The Pokémon's compound eyes boost its accuracy.,Aumenta la presición de sus movimientos
+Contrary,Respondón,Reverses any stat changes affecting the Pokémon so that attempts to boost its stats instead lower them — and attempts to lower its stats will boost them.,Invierte los cambios en las características: bajan cuando les toa subir y suben cuando les toca bajar
+Cursed Body,Cuerpo maldito,May disable a move that has dealt damage to the Pokémon.,Puede anular el movimiento usado en su contra
+Cute Charm,Gran encanto,The Pokémon may infatuate attackers that make direct contact with it.,Puede causar enamoramiento al pokemon que lo ataque con un movimiento de contacto
+Damp,Humedad,"The Pokémon dampens its surroundings, preventing all Pokémon from using explosive moves such as Self-Destruct.","Aumanta la humedad del entorno y evita que se puedan utilizar movimientos explosivos, tales como autodestrucción"
+Defeatist,Flaqueza,Halves the Pokémon's Attack and Sp. Atk stats when its HP drops to half or less.,"Cuando sus PS se ven reducidos a la mitad, se cansa tanto que su ataque y su ataque especial también se ven reducidos a la mitad"
+Defiant,Competitivo,"If the Pokémon has any stat lowered by an opposing Pokémon, its Attack stat will be boosted sharply.",Aumenta mucho su ataque cuando el rival le reduce cualquiera de sus características
+Download,Descarga,The Pokémon compares an opposing Pokémon's Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat — whichever will be more effective.,Compara la defensa y la defensa especial del rival para ver cuál es inferior y aumenta su propio ataque o ataque especial según sea lo más eficaz
+Effect Spore,Efecto espora,"Contact with the Pokémon may inflict poison, sleep, or paralysis on the attacker.","Puede dormir, envenenar o paralizar al pokemon que lo ataque con un movimiento de contacto"
+Flame Body,Cuerpo llama,Contact with the Pokémon may burn the attacker.,Puede quemar al pokemon que lo ataque con un movimiento de contacto
+Flash Fire,Absorbe fuego,"If hit by a Fire-type move, the Pokémon absorbs the flames and uses them to power up its own Fire-type moves.","Si lo alcanza un movimiento de tipo fuego, potencia sus propios movimientos de dicho tipo"
+Forewarn,Alerta,"When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has.",Revela uno de los movimientos del rival al entrar en combate
+Frisk,Cacheo,"When it enters a battle, the Pokémon can check an opposing Pokémon's held item.",Revela el objeto que lleva el rival al entrar en combate
+Gluttony,Gula,"If the Pokémon is holding a Berry to be eaten when its HP is low, it will instead eat the Berry when its HP drops to half or less.","Cuando sus PS se ven reducidos a la mitad, engulle la baya que normalmente solo se comería cuando le quedasen pocos PS"
+Guts,Agallas,It's so gutsy that having a status condition boosts the Pokémon's Attack stat.,"Si sufre de un problema de estado, se arma de valor y aumenta su ataque"
+Healer,Alma cura,Sometimes cures the status conditions of the Pokémon's allies.,A veces cura los problemas de estado de un aliado
+Hustle,Entusiasmo,Boosts the Pokémon's Attack stat but lowers its accuracy.,"Aumenta su ataque, pero reduce su presición"
+Hydration,Hidratación,Cures the Pokémon's status conditions in rain.,Cura los problemas de estado si está lloviendo
+Ice Body,Gélido,The Pokémon gradually regains HP in snow.,Recupera PS de forma gradual cuando nieva
+Illuminate,Iluminación,"By illuminating its surroundings, the Pokémon prevents its accuracy from being lowered.","Al iluminar su entorno, evita que su presición se reduzca"
+Illusion,Ilusión,The Pokémon fools opponents by entering battle disguised as the last Pokémon in its Trainer's party.,Adopta el aspecto del último pokemon del equipo al entrar en combate para desconcertar al rival
+Infiltrator,Allanamiento,"The Pokémon's moves are unaffected by the target's barriers, substitutes, and the like.",Ataca sorteando las barreras o el sustituo del objetivo
+Inner Focus,Fuerza mental,The Pokémon's intense focus prevents it from flinching or being affected by Intimidate.,"Gracias a su profunda concentración, no no retrocede ante los ataques de otros pokemon ni sufre los efectos de intimidación"
+Intimidate,Intimidación,"When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats.","Al entrar en combate, amilana al rival de tal manera que reduce su ataque"
+Iron Barbs,Punta acero,The Pokémon's iron barbs damage the attacker if it makes direct contact.,Inflinge daño con sus púas de acero al pokemon que lo ataque con un movimiento de contacto
+Iron Fist,Puño férreo,Powers up punching moves.,Aumenta la potencia de los movimientos con los puños
+Justified,Justiciero,"When the Pokémon is hit by a Dark-type attack, its Attack stat is boosted by its sense of justice.","Si le alcanza un movimiento de tipo siniestro, aumenta el ataque debido a si integridad"
+Keen Eye,Vista lince,The Pokémon's keen eyes prevent its accuracy from being lowered. It also ignores the target's stages in evasion.,Su aguda vista evita que su precisión se reduzca
+Klutz,Zoquete,The Pokémon can't use any held items.,No puede usar objetos equipados
+Leaf Guard,Defensa hoja,Prevents status conditions in harsh sunlight.,Evita problemas de estado si hace sol
+Levitate,Levitación,"By floating in the air, the Pokémon receives full immunity to all Ground-type moves.",Su capacidad de flotar sobre el suelo le proporciona inmunidad frente a los movimientos de tipo tierra
+Lightning rod,Pararrayos,"The Pokémon draws in all Electric-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted.","Atrae y neutraliza los movimientos de tipo eléctrico, que además le aumentan el ataque especial"
+Limber,Flexibilidad,The Pokémon's limber body prevents it from being paralyzed.,Evita ser paralizado gracias a la flexibilidad de su cuerpo
+Magic Guard,Muro mágico,The Pokémon only takes damage from attacks.,Solo recibe daño de ataques
+Minus,Menos,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.,Aumenta su Ataque Especial si un pokemon aliado tiene la habilidad más o la habilidad menos
+Mold Breaker,Rompemoldes,The Pokémon's moves are unimpeded by the Ability of the target.,Sus movimientos no se ven afectados por la habilidad del objetivo
+Motor Drive,Electromotor,"The Pokémon takes no damage when hit by Electric-type moves. Instead, its Speed stat is boosted.","Si le alcanza un movimiento de tipo eléctrico, aumenta su velocidad en vez de sufir daño"
+Moxie,Autoestima,"When the Pokémon knocks out a target, it shows moxie, which boosts its Attack stat.","Al debilitar a un objetivo, su confianza se refuerza de tal manera que aumenta su ataque"
+Mummy,Momia,Contact with the Pokémon changes the attacker's Ability to Mummy.,Contagia la habilidad momia al pokemon que lo ataque con un movimiento de contacto
+No Guard,Indefenso,The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land.,"Al quedar ambos expuestos, tanto sus movimientos como los del pokemon que lo ataque acertarán siempre"
+Overcoat,Funda,The Pokémon takes no damage from sandstorms. It is also protected from the effects of powders and spores.,No recibe daño de las tormentas de arena y del granizo
+Overgrow,Espesura,Powers up Grass-type moves when the Pokémon's HP is low.,Potencia sus movimientos de tipo planta cuando le quedan pocos PS
+Own Tempo,Ritmo propio,"The Pokémon sticks to its own tempo, preventing it from becoming confused or being affected by Intimidate.","Como le gusta hacer las cosas a su manera, no le afecta la confusión ni sufre de efectos de intimidación"
+Pickup,Recogida,"The Pokémon may pick up an item another Pokémon used during a battle. It may pick up items outside of battle, too.","Puede recoger objetos que otros pokemon hayan usado, o bien aquellos que encuentre en plena aventura"
+Plus,Más,Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle.,Aumenta su Ataque Especial si un pokemon aliado tiene la habilidad más o la habilidad menos
+Poison Point,Punto tóxico,Contact with the Pokémon may poison the attacker.,Puede envenenar al pokemon que lo ataque con un movimiento de contacto
+Poison Touch,Toque tóxico,May poison a target when the Pokémon makes contact.,Puede envenenar al pokemon que lo ataque con un movimiento de contacto
+Prankster,Bromista,Gives priority to the Pokémon's status moves.,Sus movimientos de estado tienen prioridad alta
+Pressure,Presión,"Puts other Pokémon under pressure, causing them to expend more PP to use their moves.",Presiona al rival de tal manera que este consume el doble de PPs al usar sus movimientos
+Quick Feet,Piés rápidos,Boosts the Speed stat if the Pokémon has a status condition.,Aumenta su velocidad si sufre de efectos de estado
+Rattled,Cobardía,"The Pokémon gets scared when hit by a Dark-, Ghost-, or Bug-type attack or if intimidated, which boosts its Speed stat.","Si lo alcanza un ataque de tipo siniestro, bicho o fantasma, o si sufre los efectos de intimidación, el miedo hace que aumente su velocidad"
+Reckless,Audaz,Powers up moves that have recoil damage.,Potencia los movimientos que también dañan al usuario
+Regenerator,Regeneración,The Pokémon has a little of its HP restored when withdrawn from battle.,Recupera unos pocos PS cuando se retira del combate
+Rivalry,Rivalidad,"The Pokémon's competitive spirit makes it deal more damage to Pokémon of the same gender, but less damage to Pokémon of the opposite gender.","Si el objetivo es del mismo sexo, su competitividad le lleva a infringir más daño. Si es del sexo contrario, en cambio, el daño será menor"
+Rough Skin,Piel tosca,The Pokémon's rough skin damages attackers that make direct contact with it.,Hiere con su piel áspera al pokemon que lo ataque con un movimiento de contacto
+Run Away,Fuga,Enables a sure getaway from wild Pokémon.,Puede escapar de cualquier pokemon salvaje
+Sand Force,Poder arena,"Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm.","Potencia los movimientos de tipo tierra, acero y roca durante las tormentas de arena"
+Sand Rush,Ímpetu arena,Boosts the Pokémon's Speed stat in a sandstorm.,Aumenta su velocidad durante las tormentas de arena
+Sand Veil,Velo arena,Boosts the Pokémon's evasiveness in a sandstorm.,Aumenta la evación durante las tormentas de arena
+Sap Sipper,Hervíboro,"The Pokémon takes no damage when hit by Grass-type moves. Instead, its Attack stat is boosted.","Si lo alcanza un ataque de tipo planta, aumenta su ataque en vez de sufrir daño"
+Scrappy,Intrépido,The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves. It is also unaffected by Intimidate.,"Alcanza a pokemon de tipo fantasma con movimientos de tipo normal o lucha. Además, no sufre los efectos de intimidación"
+Serene Grace,Dicha,Raises the likelihood of additional effects occurring when the Pokémon uses its moves.,Aumenta la probabilidad de que los movimientos cuasen efectos secundarios
+Shadow Tag,Sombra trampa,The Pokémon steps on the opposing Pokémon's shadows to prevent them from fleeing or switching out.,Pisa la sombra del rival para impedir que huya o lo cambien por otro
+Shed Skin,Mudar,The Pokémon may cure its own status conditions by shedding its skin.,Puede curar sus problemas de estado al mudar la piel
+Sheer Force,Potencia bruta,"Removes any additional effects from the Pokémon's moves, but increases the moves' power.","Aumenta la potencia de sus movimientos en detrimento de los efectos secundarios, que se ven anulados"
+Shell Armor,Caparazón,A hard shell protects the Pokémon from critical hits.,La robusta coraza que lo protege bloquea los golpes críticos
+Simple,Simple,Doubles the effects of the Pokémon's stat changes.,Duplica los cambios de características
+Skill Link,Encadenado,Maximizes the number of times multistrike moves hit.,Ejecuta siempre los movimientos de ataque múltiple con el número máximo de golpes
+Snow Cloak,Manto níveo,Boosts the Pokémon's evasiveness in snow.,Aumenta su evación cuando nieva
+Solid Rock,Roca sólida,Reduces the power of supereffective attacks that hit the Pokémon.,Mitiga el daño que le inflingen los movimientos supereficaces
+Soundproof,Insonorizar,Soundproofing gives the Pokémon full immunity to all sound-based moves.,Su aislamiento acústico lo protege de movimientos que usan sonido
+Static,Electricidad estática,The Pokémon is charged with static electricity and may paralyze attackers that make direct contact with it.,La electricidad estática que lo envuelve puede paralizar al pokemon que lo ataque con movimientos de contacto
+Stench,Hedor,"By releasing a stench when attacking, the Pokémon may cause the target to flinch.",Puede hacer retroceder a un pokemon al atacarlo debido al mal olor que emana
+Sticky Hold,Viscocidad,The Pokémon's held items cling to its sticky body and cannot be removed by other Pokémon.,"Los objetos se quedan pegados a su cuerpo, por lo que no pueden robárselos"
+Storm Drain,Colector,"The Pokémon draws in all Water-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted.","Atrae y neutraliza los movimientos de tipo agua, además le aumentan el ataque especial"
+Sturdy,Robustez,The Pokémon cannot be knocked out by a single hit as long as its HP is full. One-hit KO moves will also fail to knock it out.,El pokemon no puede debilitarse de un solo golpe cuando tiene los PS al máximo. También resiste los movimientos fulminantes
+Super Luck,Afortunado,The Pokémon is so lucky that the critical-hit ratios of its moves are boosted.,Su buena suerte aumenta la probabilidad de asestar golpes críticos
+Swarm,Enjambre,Powers up Bug-type moves when the Pokémon's HP is low.,Potencia sus movimientos de tipo bicho cuando le quedan pocos PS
+Swift Swim,Nado rápido,Boosts the Pokémon's Speed stat in rain.,Aumenta su velocidad cuando llueve o en entornos acuáticos
+Synchronize,Sincronía,"If the Pokémon is burned, paralyzed, or poisoned by another Pokémon, that Pokémon will be inflicted with the same status condition.","Contagia el envenenamiento, las quemaduras o la parálisis al pokemon que le cause ese estado"
+Technician,Experto,Powers up weak moves so the Pokémon can deal more damage with them.,Aumenta la potencia de sus movimientos débiles
+Telepathy,Telepatía,The Pokémon anticipates and dodges the attacks of its allies.,Elude los ataques de los aliados durante el combate
+Teravolt,Terravoltaje,The Pokémon's moves are unimpeded by the Ability of the target.,Sus movimientos no se ven afectados por la habilidad del objetivo
+Thick Fat,Sebo,"The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves.","Gracias a la gruesa capa de grasa que lo protege, reduce a la mitad el daño que recibe de ataques de tipo fuego o hielo"
+Tinted Lens,Cromolente,"The Pokémon can use ""not very effective"" moves to deal regular damage.","Potencia los movimientos que no son muy eficaces, que infligen ahora un daño normal"
+Torrent,Torrente,Powers up Water-type moves when the Pokémon's HP is low.,Potencia sus movimientos de tipo agua cuando le quedan pocos PS
+Truant,Pereza,"Each time the Pokémon uses a move, it spends the next turn loafing around.","Al ejecutar un movimiento, descansará en el turno siguiente"
+Turboblaze,Turbollama,The Pokémon's moves are unimpeded by the Ability of the target.,Sus movimientos no se ven afectados por la habilidad del objetivo
+Unaware,Ignorante,"When attacking, the Pokémon ignores the target's stat changes.",Pasa por alto los cambios de características de un pokemon al atacarlo o recibir daño
+Unburden,Liviano,Boosts the Speed stat if the Pokémon's held item is used or lost.,Aumenta su velocidad si usa o pierde el objeto que lleva
+Unnerve,Nerviosismo,Unnerves opposing Pokémon and makes them unable to eat Berries.,Pone nervioso al rival y le impide usar bayas
+Victory Star,Tinovictoria,Boosts the accuracy of the Pokémon and its allies.,Aumenta su presición y la de los aliados
+Vital Spirit,Espíritu vital,"The Pokémon is full of vitality, and that prevents it from falling asleep.",Su determinación le impide quedarse dormido
+Water Absorb,Absorbe agua,"If hit by a Water-type move, the Pokémon has its HP restored instead of taking damage.","Si lo alcanza un movimiento de tipo agua, recupera PS en vez de sufrir daño"
+Weak Armor,Armadura frágil,"The Pokémon's Defense stat is lowered when it takes damage from physical moves, but its Speed stat is sharply boosted.","Al recibir el daño de un ataque físico, se reduce su defensa, pero aumenta mucho su velocidad"
+White Smoke,Humo blanco,"The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats.",El humo blanco que lo protege evita que otros pokemon le reduzcan las características
+Wonder Skin,Piel milagro,Makes status moves more likely to miss the Pokémon.,Presenta una mayor resistencia ante los movimientos de estado
+Zen Mode,Modo daruma,Changes the Pokémon's shape when its HP drops to half or less.,Cambia de forma si sus PS se ven reducidos a la mitad o menos
