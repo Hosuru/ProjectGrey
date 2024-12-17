@@ -1,48 +1,48 @@
 National,Pokemon,HP,Att,Def,SpA,SpD,Spe,PPs,Type 1,Type 2,Ab 1,Ab 2,H Ab
-494,Victini,100,100,100,10000%,100,100,35,Psychic,Fire,Victory Star,Victory Star,Victory Star
-495,Snivy,45,45,55,4500%,55,63,25,Grass,Null,Overgrow,Overgrow,Contrary
-496,Servine,60,60,75,6000%,75,83,25,Grass,Null,Overgrow,Overgrow,Contrary
-497,Serperior,75,75,95,7500%,95,113,25,Grass,Null,Overgrow,Overgrow,Contrary
-498,Tepig,65,63,45,4500%,45,45,25,Fire,Null,Blaze,Blaze,Thick Fat
+494,Victini,100,100,100,100,100,100,35,Psychic,Fire,Victory Star,Victory Star,Victory Star
+495,Snivy,45,45,55,45,55,63,25,Grass,Null,Overgrow,Overgrow,Contrary
+496,Servine,60,60,75,60,75,83,25,Grass,Null,Overgrow,Overgrow,Contrary
+497,Serperior,75,75,95,75,95,113,25,Grass,Null,Overgrow,Overgrow,Contrary
+498,Tepig,65,63,45,45,45,45,25,Fire,Null,Blaze,Blaze,Thick Fat
 499,Pignite,90,93,55,70,55,55,25,Fire,Fighting,Blaze,Blaze,Thick Fat
 500,Emboar,110,123,65,100,65,65,25,Fire,Fighting,Blaze,Blaze,Reckless
-501,Oshawott,55,55,45,6300%,45,45,25,Water,Null,Torrent,Torrent,Shell Armor
-502,Dewott,75,75,60,8300%,60,60,25,Water,Null,Torrent,Torrent,Shell Armor
-503,Samurott,95,100,85,10800%,70,70,25,Water,Null,Torrent,Torrent,Shell Armor
-504,Patrat,45,55,39,3500%,39,42,25,Normal,Null,Run Away,Keen Eye,Analytic
-505,Watchog,60,85,69,6000%,69,77,25,Normal,Null,Illuminate,Keen Eye,Analytic
+501,Oshawott,55,55,45,63,45,45,25,Water,Null,Torrent,Torrent,Shell Armor
+502,Dewott,75,75,60,83,60,60,25,Water,Null,Torrent,Torrent,Shell Armor
+503,Samurott,95,100,85,108,70,70,25,Water,Null,Torrent,Torrent,Shell Armor
+504,Patrat,45,55,39,35,39,42,25,Normal,Null,Run Away,Keen Eye,Analytic
+505,Watchog,60,85,69,60,69,77,25,Normal,Null,Illuminate,Keen Eye,Analytic
 506,Lillipup,45,60,45,25,45,55,25,Normal,Null,Vital Spirit,Pickup,Run Away
 507,Herdier,65,80,65,35,65,60,25,Normal,Null,Intimidate,Sand Rush,Scrappy
-508,Stoutland,85,100,90,4500%,90,80,25,Normal,Null,Intimidate,Sand Rush,Scrappy
+508,Stoutland,85,100,90,45,90,80,25,Normal,Null,Intimidate,Sand Rush,Scrappy
 509,Purrloin,41,50,37,50,37,66,25,Dark,Null,Limber,Unburden,Prankster
 510,Liepard,64,88,50,88,50,106,25,Dark,Null,Limber,Unburden,Prankster
-511,Pansage,50,53,48,5300%,48,64,25,Grass,Null,Gluttony,Gluttony,Overgrow
-512,Simisage,75,98,63,98,6300%,101,25,Grass,Null,Gluttony,Gluttony,Overgrow
-513,Pansear,50,53,48,53,4800%,64,25,Fire,Null,Gluttony,Gluttony,Blaze
-514,Simisear,75,98,63,98,6300%,101,25,Fire,Null,Gluttony,Gluttony,Blaze
-515,Panpour,50,53,48,53,4800%,64,25,Water,Null,Gluttony,Gluttony,Torrent
-516,Simipour,75,98,63,98,6300%,101,25,Water,Null,Gluttony,Gluttony,Torrent
-517,Munna,76,25,45,67,5500%,24,25,Psychic,Null,Forewarn,Synchronize,Telepathy
+511,Pansage,50,53,48,53,48,64,25,Grass,Null,Gluttony,Gluttony,Overgrow
+512,Simisage,75,98,63,98,63,101,25,Grass,Null,Gluttony,Gluttony,Overgrow
+513,Pansear,50,53,48,53,48,64,25,Fire,Null,Gluttony,Gluttony,Blaze
+514,Simisear,75,98,63,98,63,101,25,Fire,Null,Gluttony,Gluttony,Blaze
+515,Panpour,50,53,48,53,48,64,25,Water,Null,Gluttony,Gluttony,Torrent
+516,Simipour,75,98,63,98,63,101,25,Water,Null,Gluttony,Gluttony,Torrent
+517,Munna,76,25,45,67,55,24,25,Psychic,Null,Forewarn,Synchronize,Telepathy
 518,Musharna,116,55,85,107,95,29,25,Psychic,Null,Forewarn,Synchronize,Telepathy
 519,Pidove,50,55,50,36,30,43,25,Normal,Flying,Big Pecks,Super Luck,Rivalry
 520,Tranquill,62,77,62,50,42,65,25,Normal,Flying,Big Pecks,Super Luck,Rivalry
-521,Unfezant,80,105,80,65,5500%,93,25,Normal,Flying,Big Pecks,Super Luck,Rivalry
-522,Blitzle,45,60,32,50,3200%,76,25,Electric,Null,Lightningrod,Motor Drive,Sap Sipper
-523,Zebstrika,75,100,63,80,6300%,116,25,Electric,Null,Lightningrod,Motor Drive,Sap Sipper
+521,Unfezant,80,105,80,65,55,93,25,Normal,Flying,Big Pecks,Super Luck,Rivalry
+522,Blitzle,45,60,32,50,32,76,25,Electric,Null,Lightningrod,Motor Drive,Sap Sipper
+523,Zebstrika,75,100,63,80,63,116,25,Electric,Null,Lightningrod,Motor Drive,Sap Sipper
 524,Roggenrola,55,75,85,25,25,15,25,Rock,Null,Sturdy,Sturdy,Sand Force
-525,Boldore,70,105,105,50,4000%,20,25,Rock,Null,Sturdy,Sturdy,Sand Force
-526,Gigalith,85,135,130,60,7000%,25,25,Rock,Null,Sturdy,Sturdy,Sand Force
-527,Woobat,55,45,43,55,4300%,72,25,Psychic,Flying,Unaware,Klutz,Simple
-528,Swoobat,67,57,55,77,5500%,114,25,Psychic,Flying,Unaware,Klutz,Simple
+525,Boldore,70,105,105,50,40,20,25,Rock,Null,Sturdy,Sturdy,Sand Force
+526,Gigalith,85,135,130,60,70,25,25,Rock,Null,Sturdy,Sturdy,Sand Force
+527,Woobat,55,45,43,55,43,72,25,Psychic,Flying,Unaware,Klutz,Simple
+528,Swoobat,67,57,55,77,55,114,25,Psychic,Flying,Unaware,Klutz,Simple
 529,Drilbur,60,85,40,30,45,68,25,Ground,Null,Sand Rush,Sand Force,Mold Breaker
-530,Excadrill,110,135,60,50,6500%,88,25,Ground,Steel,Sand Rush,Sand Force,Mold Breaker
-531,Audino,103,60,86,60,8600%,50,25,Normal,Null,Healer,Regenerator,Klutz
-532,Timburr,75,80,55,25,3500%,35,25,Fighting,Null,Guts,Sheer Force,Iron Fist
+530,Excadrill,110,135,60,50,65,88,25,Ground,Steel,Sand Rush,Sand Force,Mold Breaker
+531,Audino,103,60,86,60,86,50,25,Normal,Null,Healer,Regenerator,Klutz
+532,Timburr,75,80,55,25,35,35,25,Fighting,Null,Guts,Sheer Force,Iron Fist
 533,Gurdurr,85,105,85,40,50,40,25,Fighting,Null,Guts,Sheer Force,Iron Fist
-534,Conkeldurr,105,140,95,55,6500%,45,25,Fighting,Null,Guts,Sheer Force,Iron Fist
-535,Tympole,50,50,40,50,4000%,64,25,Water,Null,Swift Swim,Hydration,Water Absorb
-536,Palpitoad,75,65,55,65,5500%,69,25,Water,Ground,Swift Swim,Hydration,Water Absorb
-537,Seismitoad,105,85,75,85,7500%,74,25,Water,Ground,Swift Swim,Poison Touch,Water Absorb
+534,Conkeldurr,105,140,95,55,65,45,25,Fighting,Null,Guts,Sheer Force,Iron Fist
+535,Tympole,50,50,40,50,40,64,25,Water,Null,Swift Swim,Hydration,Water Absorb
+536,Palpitoad,75,65,55,65,55,69,25,Water,Ground,Swift Swim,Hydration,Water Absorb
+537,Seismitoad,105,85,75,85,75,74,25,Water,Ground,Swift Swim,Poison Touch,Water Absorb
 538,Throh,120,100,85,30,85,45,25,Fighting,Null,Guts,Inner Focus,Mold Breaker
 539,Sawk,75,125,75,30,75,85,25,Fighting,Null,Sturdy,Inner Focus,Mold Breaker
 540,Sewaddle,45,53,70,40,60,42,25,Bug,Grass,Swarm,Chlorophyll,Overcoat
@@ -157,3 +157,4 @@ National,Pokemon,HP,Att,Def,SpA,SpD,Spe,PPs,Type 1,Type 2,Ab 1,Ab 2,H Ab
 648,Meloetta (A),100,77,77,128,128,90,35,Normal,Psychic,Serene Grace,Serene Grace,Serene Grace
 648.1,Meloetta (P),100,128,90,77,77,128,35,Normal,Fighting,Serene Grace,Serene Grace,Serene Grace
 649,Genesect,71,120,95,120,95,99,35,Bug,Steel,Download,Download,Download
+902,Basculegion,120,102,65,90,75,78,25,Water,Ghost,Swift Swim,Adaptability,Mold Breaker
