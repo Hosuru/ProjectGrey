@@ -3,7 +3,7 @@ package ProjectGreyHelper;
 public class Test{
     public static void main(String[] args){
 
-        String[][] matrix = MyResources.scanNow("ProjectGreyHelper\\Test.csv", ",", 3, 4);
+        String[][] matrix = MyResources.scanNow("ProjectGreyHelper\\Test.csv", ",", 3, 3);
 
         for (String[] x : matrix) {
             for (String y : x) {

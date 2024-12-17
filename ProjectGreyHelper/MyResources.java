@@ -12,7 +12,7 @@ public class MyResources {
         try{
             Scanner sc = new Scanner(new File(file));    // generamos el scanner. necesita de un archivo, el cual no usaremos en otro momento, así que lo generamos dentro
 
-            while(sc.hasNext()){
+            while(sc.hasNext() && x<rows){
                 matrix[x] = sc.next().split(separator);
 
                 x++;
