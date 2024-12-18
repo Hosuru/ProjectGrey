@@ -3,6 +3,7 @@ package ProjectGreyHelper;
 public class Test{
     public static void main(String[] args){
 
+        /*
         String[][] matrix = MyResources.scanNow("Pokemon base.csv", ",", 160);
         int i = 1;
 
@@ -16,13 +17,18 @@ public class Test{
                 System.out.print("\n");
             } else
                 System.out.print(" ");
-        }
+        }*/
 
-        /*
         String[] line = MyResources.scanLine("Pokemon base.csv", ",", 1);
         
         for (String x : line) {
             System.out.print(x + " ");
-        }*/
+        }
+
+        line = MyResources.scanLine("Pokemon base.csv", ",", 2);
+        
+        for (String x : line) {
+            System.out.print(x + " ");
+        }
     }
 }
