@@ -1,0 +1,194 @@
+#### Absorbe agua
+Si lo alcanza un movimiento de tipo agua, recupera HP igual a la cantidad de daño en vez de sufrirlo.
+#### Absorbe fuego
+Si lo alcanza un movimiento de tipo fuego, potencia su siguiente movimientos de dicho tipo por la mitad del daño absorbido.
+#### Adaptabilidad
+Los movimientos cuyo tipo coincida con el usuario reciben dos veces el bono de nivel.
+#### Afortunado
+Su buena suerte aumenta la probabilidad de asestar golpes críticos, reduciendo la necesidad de realizar el crítico en -25 a la diferencia con la defensa del objetivo y en -5 a la tirada de el 1d100. 
+#### Agallas
+Si sufre de un problema de estado, se arma de valor y aumenta su ataque en 50.
+#### Alerta
+Revela uno de los movimientos del rival al entrar en combate.
+#### Allanamiento
+Ataca ignorando las barreras o el sustituo del objetivo.
+#### Alma cura
+Al finalizar el turno, si un aliado sufre un problema de estado, lanza 1d10, si el resultado es menor o igual a 3, cura un problema de estaod.
+#### Armadura frágil
+Al recibir el daño de un ataque físico, se reduce su defensa en -25, pero aumenta su velocidad en 50.
+#### Audaz
+Duplica el bono por estadística en los movimientos que también dañan al usuario.
+#### Autoestima
+Al debilitar a un objetivo, su confianza se refuerza de tal manera que aumenta su ataque en 50.
+#### Bromista
+Sus movimientos de estado pueden ser realizados antes de que un oponente utilice su movimiento, contando como un movimiento utilizado en el turno siguiente del usuario.
+#### Cacheo
+Revela el objeto que lleva el rival al entrar en combate.
+#### Cálculo final
+Si es el usuario es último en atacar en la ronda, sus ataques hacen como mínimo la mitad posible del daño.
+#### Caparazón
+La robusta coraza que lo protege bloquea los golpes críticos.
+#### Clorofila
+Aumena la velocidad en 50 cuando hace sol.
+#### Cobardía
+Si lo alcanza un ataque de tipo siniestro, bicho o fantasma, o si sufre los efectos de intimidación, el miedo hace que aumente su velocidad en 50.
+#### Colector
+Atrae y neutraliza los movimientos de tipo agua, además le aumentan el ataque especial en 25.
+#### Competitivo
+Aumenta su ataque en 50 cuando el rival le reduce cualquiera de sus características.
+#### Cromolente
+Potencia los movimientos que no son muy eficaces, que infligen ahora un daño normal.
+#### Cuerpo llama
+Al recibir un movimiento de contacto lanza 1d10, si el resultado es menor o igual a 3, quema al atacante.
+#### Cuerpo maldito
+Luego de recibir daño lanza 1d10, si el resultado es menor o igual a 3, anula el movimiento por 4 turnos.
+#### Cuerpo puro
+Evita que se reduzcan sus características a causa de movimientos o habilidades de otros pokemon.
+#### Defensa hoja
+Evita problemas de estado si hace sol. No cura problemas de estado previos.
+#### Descarga
+Compara la defensa y la defensa especial de un rival para ver cuál es inferior y aumenta su propio ataque o ataque especial según sea lo más eficaz.
+#### Detonacion
+Daña 1d20 HP al pokémon que le ha dado el golpe de gracia con un movimiento de contacto.
+#### Dicha
+La probabilidad de que los movimientos cuasen efectos secundarios aumenta en 1.
+#### Efecto espora
+Al recibir un movimiento de contacto lanza 1d10, si el resultado es 1, lanza 1d6. En 1 o 2 envenena, en 3 o 4 duerme, en 5 o 6 paraliza al pokémon atacante.
+#### Electricidad estática
+La electricidad estática que lo envuelve puede paralizar al pokemon que lo ataque con movimientos de contacto. Lanza 1d10 y si el resultado es 3 o menor, paraliza al atacante.
+#### Electromotor
+Si le alcanza un movimiento de tipo eléctrico, aumenta su velocidad por 25 en vez de sufir daño.
+#### Encadenado
+Ejecuta siempre los movimientos de ataque múltiple con el número máximo de golpes.
+#### Enjambre
+Duplica los dados utilizados en movimientos de tipo bicho cuando el HP está por debajo del 20%.
+#### Entusiasmo
+Aumenta su ataque la mitad del total, pero cada vez que quiere realizar un ataque físico, reduce la tirada de 1d100 de ataque a la mitad.
+#### Espesura
+Duplica los dados utilizados en movimientos de tipo planta cuando el HP está por debajo del 20%.
+#### Espíritu vital
+Su determinación le impide quedarse dormido.
+#### Experto
+Duplica la potencia de sus movimientos que utilicen d4s.
+#### Flaqueza
+Cuando sus PS se ven reducidos a la mitad, se cansa tanto que su ataque y su ataque especial también se ven reducidos a la mitad.
+#### Flexibilidad
+Evita ser paralizado gracias a la flexibilidad de su cuerpo.
+#### Fuerza mental
+Gracias a su profunda concentración, no retrocede ante los ataques de otros pokemon ni sufre los efectos de intimidación.
+#### Fuga
+Puede escapar de cualquier pokemon salvaje.
+#### Funda
+No recibe daño de las tormentas de arena y del granizo.
+#### Gélido
+Recupera una décima de HP cuando nieva.
+#### Gran encanto
+Si el pokémon que ataca es del sexo opuesto, lanza 1d10, si el resultado es menor o igual a 3, causa enamoramiento al pokemon atacante.
+#### Gula
+Cuando sus PS se ven reducidos a la mitad, engulle la baya que normalmente solo se comería cuando le quedasen pocos PS.
+#### Hedor
+Puede hacer retroceder a un pokemon al atacarlo debido al mal olor que emana. Lanza 1d10 y si el resultado es 1, el atacante retrocede en su próximo turno.
+#### Hervíboro
+Si lo alcanza un ataque de tipo planta, aumenta su ataque en 25 en vez de sufrir daño.
+#### Hidratación
+Cura los problemas de estado si está lloviendo.
+#### Humedad
+Aumanta la humedad del entorno y evita que se puedan utilizar movimientos explosivos, tales como autodestrucción.
+#### Absorbe agua
+Si lo alcanza un movimiento de tipo agua, recupera HP igual a la cantidad de daño en vez de sufrirlo.
+#### Absorbe fuego
+Si lo alcanza un movimiento de tipo fuego, potencia su siguiente movimientos de dicho tipo por la mitad del daño absorbido.
+#### Adaptabilidad
+Los movimientos cuyo tipo coincida con el usuario reciben dos veces el bono de nivel.
+#### Afortunado
+Su buena suerte aumenta la probabilidad de asestar golpes críticos, reduciendo la necesidad de realizar el crítico en -25 a la diferencia con la defensa del objetivo y en -5 a la tirada de el 1d100. 
+#### Agallas
+Si sufre de un problema de estado, se arma de valor y aumenta su ataque en 50.
+#### Alerta
+Revela uno de los movimientos del rival al entrar en combate.
+#### Allanamiento
+Ataca ignorando las barreras o el sustituo del objetivo.
+#### Alma cura
+Al finalizar el turno, si un aliado sufre un problema de estado, lanza 1d10, si el resultado es menor o igual a 3, cura un problema de estaod.
+#### Armadura frágil
+Al recibir el daño de un ataque físico, se reduce su defensa en -25, pero aumenta su velocidad en 50.
+#### Audaz
+Duplica el bono por estadística en los movimientos que también dañan al usuario.
+#### Autoestima
+Al debilitar a un objetivo, su confianza se refuerza de tal manera que aumenta su ataque en 50.
+#### Bromista
+Sus movimientos de estado pueden ser realizados antes de que un oponente utilice su movimiento, contando como un movimiento utilizado en el turno siguiente del usuario.
+#### Cacheo
+Revela el objeto que lleva el rival al entrar en combate.
+#### Cálculo final
+Si es el usuario es último en atacar en la ronda, sus ataques hacen como mínimo la mitad posible del daño.
+#### Caparazón
+La robusta coraza que lo protege bloquea los golpes críticos.
+#### Clorofila
+Aumena la velocidad en 50 cuando hace sol.
+#### Cobardía
+Si lo alcanza un ataque de tipo siniestro, bicho o fantasma, o si sufre los efectos de intimidación, el miedo hace que aumente su velocidad en 50.
+#### Colector
+Atrae y neutraliza los movimientos de tipo agua, además le aumentan el ataque especial en 25.
+#### Competitivo
+Aumenta su ataque en 50 cuando el rival le reduce cualquiera de sus características.
+#### Cromolente
+Potencia los movimientos que no son muy eficaces, que infligen ahora un daño normal.
+#### Cuerpo llama
+Al recibir un movimiento de contacto lanza 1d10, si el resultado es menor o igual a 3, quema al atacante.
+#### Cuerpo maldito
+Luego de recibir daño lanza 1d10, si el resultado es menor o igual a 3, anula el movimiento por 4 turnos.
+#### Cuerpo puro
+Evita que se reduzcan sus características a causa de movimientos o habilidades de otros pokemon.
+#### Defensa hoja
+Evita problemas de estado si hace sol. No cura problemas de estado previos.
+#### Detonacion
+Daña 1d20 HP al pokémon que le ha dado el golpe de gracia con un movimiento de contacto.
+#### Dicha
+La probabilidad de que los movimientos cuasen efectos secundarios aumenta en 1.
+#### Efecto espora
+Al recibir un movimiento de contacto lanza 1d10, si el resultado es 1, lanza 1d6. En 1 o 2 envenena, en 3 o 4 duerme, en 5 o 6 paraliza al pokémon atacante.
+#### Electricidad estática
+La electricidad estática que lo envuelve puede paralizar al pokemon que lo ataque con movimientos de contacto. Lanza 1d10 y si el resultado es 3 o menor, paraliza al atacante.
+#### Electromotor
+Si le alcanza un movimiento de tipo eléctrico, aumenta su velocidad por 25 en vez de sufir daño.
+#### Encadenado
+Ejecuta siempre los movimientos de ataque múltiple con el número máximo de golpes.
+#### Enjambre
+Duplica los dados utilizados en movimientos de tipo bicho cuando el HP está por debajo del 20%.
+#### Entusiasmo
+Aumenta su ataque la mitad del total, pero cada vez que quiere realizar un ataque físico, reduce la tirada de 1d100 de ataque a la mitad.
+#### Espesura
+Duplica los dados utilizados en movimientos de tipo planta cuando el HP está por debajo del 20%.
+#### Espíritu vital
+Su determinación le impide quedarse dormido.
+#### Experto
+Duplica la potencia de sus movimientos que utilicen d4s.
+#### Flaqueza
+Cuando sus PS se ven reducidos a la mitad, se cansa tanto que su ataque y su ataque especial también se ven reducidos a la mitad.
+#### Flexibilidad
+Evita ser paralizado gracias a la flexibilidad de su cuerpo.
+#### Fuerza mental
+Gracias a su profunda concentración, no retrocede ante los ataques de otros pokemon ni sufre los efectos de intimidación.
+#### Fuga
+Puede escapar de cualquier pokemon salvaje.
+#### Funda
+No recibe daño de las tormentas de arena y del granizo.
+#### Gélido
+Recupera una décima de HP cuando nieva.
+#### Gran encanto
+Si el pokémon que ataca es del sexo opuesto, lanza 1d10, si el resultado es menor o igual a 3, causa enamoramiento al pokemon atacante.
+#### Gula
+Cuando sus PS se ven reducidos a la mitad, engulle la baya que normalmente solo se comería cuando le quedasen pocos PS.
+#### Hedor
+Puede hacer retroceder a un pokemon al atacarlo debido al mal olor que emana. Lanza 1d10 y si el resultado es 1, el atacante retrocede en su próximo turno.
+#### Hervíboro
+Si lo alcanza un ataque de tipo planta, aumenta su ataque en 25 en vez de sufrir daño.
+#### Hidratación
+Cura los problemas de estado si está lloviendo.
+#### Humedad
+Aumanta la humedad del entorno y evita que se puedan utilizar movimientos explosivos, tales como autodestrucción.
+#### Humo blanco
+El humo blanco que lo protege evita que otros pokemon le reduzcan las características.
+#### Ignorante
+Pasa por alto los cambios de características de un pokemon al atacarlo o recibir daño.
