@@ -1,0 +1,559 @@
+Name,Nombre,Type,Theme,Cat,PP,Att,Appeal,Acc,Effect,Efecto
+Absorb,Absorber,Grass,Clever,Special,15,1d4,4,0,User recovers half the HP inflicted on opponent.,El usuario recupera la mitad de los hp infligidos al oponente.
+Acid,Ácido,Poison,Clever,Special,10,2d4,3,0,Throw 1d10 and if the result is equal to 1 it will lower opponent's special defense.,Lanza 1d10 y si el resultado es igual a 1 bajará la defensa especial del oponente.
+Acid Armor,Armadura ácida,Poison,Tough,Other,1,--,1,0,Adds +33 to user's defense.,Agrega +33 a la defensa del usuario.
+Acid Spray,Bomba ácida,Poison,Beautiful,Special,20,2d4,2,0,Reduces -50 to the opponent's special defense.,Reduce -50 a la defensa especial del oponente.
+Acrobatics,Acróbata,Flying,Cool,Physical,25,1d10,1,0,Double damage when the user does not have a held item.,Doble daño cuando el usuario no tiene ningún objeto retenido.
+Acupressure,Acupresión,Normal,Tough,Other,10,--,1,0,"Adds +33 to (1d6): 1:HP, 2:att, 3:def, 4:spa, 5:spd, 6:spe.","Agrega +33 a (1d6): 1:hp, 2:att, 3:def, 4:spa, 5:spd, 6:spe."
+Aerial Ace,Golpe aéreo,Flying,Cool,Physical,20,1d12,2,0,Ignores defenses.,Ignora las defensas.
+Aeroblast,Aerochorro,Flying,Cool,Special,35,2d10,3,-5,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100.
+After You,Cede paso,Normal,Cute,Other,25,--,3,0,Allows friendly target to use one move before opponent's moves.,Permite que el objetivo amigo use un movimiento antes que los movimientos del oponente.
+Agility,Agilidad,Psychc,Cool,Other,10,--,3,0,Adds +33 to user's speed.,Agrega +33 a la velocidad del usuario.
+Air Cutter,Aire afilado,Flying,Cool,Special,15,1d10,4,-5,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll. Hits all opposing pokémon in range.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100. Golpea a todos los Pokémon enemigos dentro de su alcance.
+Air Slash,Tajo aéreo,Flying,Cool,Special,20,3d4,1,-5,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 3 provocará un estremecimiento.
+Ally Switch,Cambio de banda,Psychc,Clever,Other,25,--,3,0,User switches places with one teammate.,El usuario cambia de lugar con un compañero de equipo.
+Amnesia,Amnesia,Psychc,Cute,Other,20,--,1,0,Adds +33 to user's special defense.,Agrega +33 a la defensa especial del usuario.
+Ancient power,Poder pasado,Rock,Tough,Special,35,1d12,1,0,Throw 1d10 and if the result is equal to 1 it will raise all user's stats at once.,Lanza 1d10 y si el resultado es igual a 1 aumentará las estadísticas de todos los usuarios a la vez.
+Aqua Jet,Acua jet,Water,Cool,Physical,20,2d4,3,0,"User may use this move before opponent's moves, counting as an action for next user's turn.","El usuario puede usar este movimiento antes de los movimientos del oponente, contando como una acción para el turno del siguiente usuario."
+Aqua Ring,Acua aro,Water,Beautiful,Other,20,--,1,0,Restores 1d4 HP each turn.,Restaura 1d4 hp cada turno.
+Aqua Tail,Acua cola,Water,Beautiful,Physical,30,2d8,4,-10,,
+Arm Thrust,Empujón,Fight,Tough,Physical,20,1d2,1,0,Attemps to hit 1d4+1 times in one turn.,Intenta acertar 1d4+1 veces en un turno.
+Aromatherapy,Aromaterapia,Grass,Clever,Other,35,--,1,0,Cures all status problems in your party.,Cura todos los problemas de estado en tu grupo.
+Assist,Ayuda,Normal,Cute,Other,20,--,1,0,User performs a move known by its allies at random.,El usuario realiza un movimiento conocido por sus aliados al azar.
+Assurance,Buena baza,Dark,Clever,Physical,30,1d10,1,0,Power doubles if opponent already took damage in the same turn.,El poder se duplica si el oponente ya recibió daño en el mismo turno.
+Astonish,Impresionar,Ghost,Cute,Physical,25,1d6,2,0,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 3 provocará un estremecimiento.
+Attack Order,Al ataque,Bug,Clever,Physical,25,2d8,3,0,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100.
+Attract,Atracción,Normal,Cute,Other,25,--,2,0,"If opponent is the opposite gender, it has a reduces -25 to the 1d100 result to attack.","Si el oponente es del sexo opuesto, tiene una reducción de -25 al resultado de 1d100 para atacar."
+Aura Sphere,Esfera aural,Fight,Beautiful,Special,20,2d8,2,0,Ignores defenses.,Ignora las defensas.
+Aurora Beam,Rayo aurora,Ice,Beautiful,Special,20,2d6,2,0,Throw 1d10 and if the result is equal to 1 it will lower opponent's attack.,Lanza 1d10 y si el resultado es igual a 1 bajará el ataque del oponente.
+Autotomize,Aligerar,Steel,Beautiful,Other,25,--,1,0,Reduces weight and adds +33 to speed.,Reduce el peso y añade +33 a la velocidad.
+Avalanche,Alud,Ice,Beautiful,Physical,30,1d12,3,0,Power doubles if user took damage first.,El poder se duplica si el usuario recibió daño primero.
+Barrage,Bombardeo,Normal,Cute,Physical,20,1d2,1,-15,Attemps to hit 1d4+1 times in one turn.,Intenta acertar 1d4+1 veces en un turno.
+Barrier,Barrera,Psychc,Cool,Other,10,--,1,0,Adds +33 to user's defense.,Agrega +33 a la defensa del usuario.
+Baton Pass,Relevo,Normal,Cute,Other,1,--,1,0,User switches out and gives stat changes to the incoming pokémon.,El usuario cambia y da cambios de estadísticas al Pokémon entrante.
+Beat Up,Paliza,Dark,Clever,Physical,30,--,1,0,Make an attack for each member of user's party. The damage of each attack is equal to the matt of each pokémon in the user's party.,Realiza un ataque para cada miembro del grupo del usuario. El daño de cada ataque es igual al matt de cada pokémon en el grupo del usuario.
+Belly Drum,Tambor,Normal,Cute,Other,30,--,7,0,"User loses 50% of its maximum HP, but attack gets a +150.","El usuario pierde el 50% de su HP máximo, pero el ataque obtiene un +150."
+Bestow,Ofrenda,Normal,Cute,Other,25,--,1,0,Gives the user's held item to the target.,Le da el objeto retenido por el usuario al objetivo.
+Bide,Venganza,Normal,Tough,Physical,30,--,3,0,User takes damage for two turns then strikes back double the damage recieved.,El usuario recibe daño durante dos turnos y luego contraataca el doble del daño recibido.
+Bind,Atadura,Normal,Tough,Physical,20,1d2,3,-15,"Traps opponent, damaging them for 3+1d2 turns.",Atrapa al oponente y lo daña durante 3+1d2 turnos.
+Bite,Mordisco,Dark,Tough,Physical,15,1d12,2,0,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 3 provocará un estremecimiento.
+Blast Burn,Anillo ígneo,Fire,Beautiful,Special,35,3d10,4,-10,User must rest next round.,El usuario debe descansar en la siguiente ronda.
+Blaze Kick,Patada ígnea,Fire,Cool,Physical,30,2d8,3,-10,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll. 1d10 and if the result is equal to 1 it will burn opponent.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100. 1d10 y si el resultado es igual a 1 quemará al oponente.
+Blizzard,Ventisca,Ice,Beautiful,Special,35,2d12,1,-30,Throw 1d10 and if the result is equal to 1 it will freeze opponent. Hits all opposing pokémon in range.,Lanza 1d10 y si el resultado es igual a 1 congelará al oponente. Golpea a todos los Pokémon enemigos dentro de su alcance.
+Block,Bloqueo,Normal,Cute,Other,35,--,2,0,Opponent cannot flee or switch.,El oponente no puede huir ni cambiar.
+Blue Flare,Llama azul,Fire,Beautiful,Special,35,3d8,3,-15,Throw 1d10 and if the result is equal to 1 it will burn opponent.,Lanza 1d10 y si el resultado es igual a 1 quemará al oponente.
+Body Slam,Golpe cuerpo,Normal,Tough,Physical,25,2d8,1,0,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.,Lanza 1d10 y si el resultado es igual o menor que 3 paralizará al oponente.
+Bolt Strike,Ataque fulgor,Electr,Beautiful,Physical,35,3d8,3,-15,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.,Lanza 1d10 y si el resultado es igual o menor que 3 paralizará al oponente.
+Bone Club,Hueso palo,Ground,Tough,Physical,20,2d6,3,-15,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 3 provocará un estremecimiento.
+Bone Rush,Ataque óseo,Ground,Tough,Physical,30,1d4,1,-10,Attemps to hit 1d4+1 times in one turn.,Intenta acertar 1d4+1 veces en un turno.
+Bonemerang,Huesomerang,Ground,Tough,Physical,30,1d10,2,-10,Attemps to hit twice.,Intenta golpear dos veces.
+Bounce,Bote,Flying,Cute,Physical,35,2d8,1,-15,"Springs up on first round, attacks on second. Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.","Salta en el primer asalto, ataca en el segundo. Lanza 1d10 y si el resultado es igual o menor que 3 paralizará al oponente."
+Brave Bird,Pájaro osado,Flying,Cool,Physical,25,2d12,7,0,User receives 2d4 damage.,El usuario recibe 2d4 de daño.
+Brick Break,Demolición,Fight,Cool,Physical,25,3d4,4,0,Breaks through reflect and light screen barriers.,Rompe Pantalla de Luz y Reflejo.
+Brine,Salmuera,Water,Tough,Special,30,2d6,3,0,Power doubles if opponent's HP is less than 50%.,El poder se duplica si el HP del oponente es inferior al 50%.
+Bubble,Burbuja,Water,Cute,Special,10,1d4,4,0,Throw 1d10 and if the result is equal to 1 it will lower opponent's speed.,Lanza 1d10 y si el resultado es igual a 1 bajará la velocidad del oponente.
+Bubble beam,Rayo burbuja,Water,Beautiful,Special,20,2d6,2,0,Throw 1d10 and if the result is equal to 1 it will lower opponent's speed.,Lanza 1d10 y si el resultado es igual a 1 bajará la velocidad del oponente.
+Bug Bite,Picadura,Bug,Cute,Physical,20,1d12,3,0,Receives the effect from the opponent's held berry.,Recibe el efecto de la baya que tiene el oponente.
+Bug Buzz,Zumbido,Bug,Beautiful,Special,30,2d8,1,0,Throw 1d10 and if the result is equal to 1 it will lower opponent's special defense.,Lanza 1d10 y si el resultado es igual a 1 bajará la defensa especial del oponente.
+Bulk Up,Corpulencia,Fight,Cool,Other,20,--,1,0,Adds +25 to user's attack and defense.,Agrega +25 al ataque y defensa del usuario.
+Bulldoze,Terratemblor,Ground,Tough,Physical,20,1d12,2,0,Reduces -25 to opponent's speed.,Reduce -25 a la velocidad del oponente.
+Bullet Punch,Puño bala,Steel,Tough,Physical,10,2d4,3,0,"User may use this move before opponent's moves, counting as an action for next user's turn.","El usuario puede usar este movimiento antes de los movimientos del oponente, contando como una acción para el turno del siguiente usuario."
+Bullet Seed,Semilladora,Grass,Cool,Physical,10,1d4,1,0,Attemps to hit 1d4+1 times in one turn.,Intenta acertar 1d4+1 veces en un turno.
+Calm Mind,Paz mental,Psychc,Clever,Other,20,--,1,0,Adds +25 to user's special attack and special defense.,Agrega +25 al ataque especial y defensa especial del usuario.
+Camouflage,Camuflaje,Normal,Clever,Other,20,--,1,0,Changes user's type according to the location.,Cambia el tipo de usuario según la ubicación.
+Captivate,Seducción,Normal,Cute,Other,20,--,4,0,Reduces -50 to the opponent's special attack if opposite gender.,Reduce -50 al ataque especial del oponente si es del sexo opuesto.
+Charge,Carga,Electr,Clever,Other,20,--,1,0,Adds +25 to user's special defense and next electric move's power increases.,Agrega +25 a la defensa especial del usuario y aumenta el poder del próximo movimiento eléctrico.
+Charge Beam,Rayo carga,Electr,Beautiful,Special,30,1d10,1,-10,Throw 1d10 and if the result is equal or less than 3 it will raise user's special attack.,Lanza 1d10 y si el resultado es igual o menor que 3 aumentará el ataque especial del usuario.
+Charm,Encanto,Normal,Cute,Other,20,--,2,0,Reduces -50 to the opponent's attack.,Reduce -50 al ataque del oponente.
+Chatter,Cháchara,Flying,Cute,Special,20,1d12,3,0,Confuses opponent.,Confunde al oponente.
+Chip Away,Guardia baja,Normal,Tough,Physical,20,3d4,2,0,Ignores opponent's stat changes.,Ignora los cambios de estadísticas del oponente.
+Circle Throw,Llave giro,Fight,Cool,Physical,30,1d12,3,-10,"In battles, the opponent switches. In the wild, the pokémon runs.","En las batallas, el oponente cambia. En estado salvaje, el pokémon corre."
+Clamp,Tenaza,Water,Tough,Physical,25,1d6,3,-15,"Traps opponent, damaging them for 3+1d2 turns.",Atrapa al oponente y lo daña durante 3+1d2 turnos.
+Clear Smog,Niebla clara,Poison,Beautiful,Special,25,1d10,2,0,Removes all of the target's stat changes.,Elimina todos los cambios de estadísticas del objetivo.
+Close Combat,A bocajarro,Fight,Tough,Physical,35,2d12,6,0,Reduces -25 to user's defense and special defense.,Reduce -25 a la defensa del usuario y a la defensa especial.
+Coil,Enrosque,Poison,Tough,Other,20,--,1,0,"Adds +25 to user's attack, defense and accuracy.","Agrega +25 al ataque, defensa y precisión del usuario."
+Comet Punch,Puño cometa,Normal,Tough,Physical,25,1d2,1,-15,Attemps to hit 1d4+1 times in one turn.,Intenta acertar 1d4+1 veces en un turno.
+Confuse Ray,Rayo confuso,Ghost,Clever,Other,30,--,2,0,Confuses opponent.,Confunde al oponente.
+Confusion,Confusión,Psychc,Clever,Special,15,1d10,4,0,Throw 1d10 and if the result is equal or less than 3 it will confuse opponent.,Lanza 1d10 y si el resultado es igual o menor que 3 confundirá al oponente.
+Constrict,Restricción,Normal,Tough,Physical,5,1d2,3,0,Throw 1d10 and if the result is equal to 1 it will lower opponent's speed by one stage.,"Lanza 1d10 y si el resultado es igual a 1, reducirá la velocidad del oponente en un nivel."
+Conversion,Conversión,Normal,Beautiful,Other,10,--,2,0,Changes user's type to that of its first move.,Cambia el tipo de usuario al de su primer movimiento.
+Conversion 2,Conversión 2,Normal,Beautiful,Other,10,--,2,0,User changes type to become resistant to opponent's last move.,El usuario cambia de tipo para volverse resistente al último movimiento del oponente.
+Copycat,Copión,Normal,Cute,Other,20,--,1,0,Copies opponent's last move.,Copia el último movimiento del oponente.
+Cosmic Power,Masa cósmica,Psychc,Beautiful,Other,20,--,1,0,Adds +25 to user's defense and special defense.,Agrega +25 a la defensa del usuario y defensa especial.
+Cotton Guard,Rizo algodón,Grass,Cute,Other,30,--,1,0,Adds +50 to user's defense.,Agrega +50 a la defensa del usuario.
+Cotton Spore,Esporagodón,Grass,Beautiful,Other,1,--,2,0,Reduces -50 to the opponent's speed.,Reduce -50 a la velocidad del oponente.
+Counter,Contraataque,Fight,Tough,Physical,20,--,2,0,"When hit by a physical attack once until next round, user strikes back with 2x power.","Cuando es golpeado por un ataque físico una vez hasta la siguiente ronda, el usuario contraataca con el doble de poder."
+Covet,Antojo,Normal,Cute,Physical,1,1d12,1,0,Opponent's item is stolen by the user.,El usuario roba el artículo del oponente.
+Crabhammer,Martillazo,Water,Tough,Physical,30,2d8,3,-10,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100.
+Cross Chop,Tajo cruzado,Fight,Cool,Physical,35,2d10,3,-20,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100.
+Cross Poison,Veneno X,Poison,Cool,Physical,20,3d4,2,0,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll. Throw 1d10 and if the result is equal or less than 3 it will poison opponent.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100. Lanza 1d10 y si el resultado es igual o menor que 3 envenenará al oponente.
+Crunch,Triturar,Dark,Tough,Physical,25,3d4,1,0,Throw 1d10 and if the result is equal or less than 2 it will lower opponent's defense.,Lanza 1d10 y si el resultado es igual o menor a 2 bajará la defensa del oponente.
+Crush Claw,Garra brutal,Normal,Cool,Physical,30,3d4,1,-5,Throw 1d10 and if the result is equal or less than 5 it will lower opponent's defense.,Lanza 1d10 y si el resultado es igual o menor a 5 bajará la defensa del oponente.
+Crush Grip,Agarrón,Normal,Tough,Physical,35,--,3,0,Double damage when opponent has higher HP.,Daño doble cuando el oponente tiene mayor HP.
+Curse,Maldición,Ghost,Tough,Other,30,--,3,0,"Ghosts lose 50% of maximum HP and curse the opponent; non-ghosts raise attack, defense and lower speed.","Los fantasmas pierden el 50% del HP máximo y maldicen al oponente; Los no fantasmas aumentan el ataque, la defensa y reducen la velocidad."
+Cut,Corte,Normal,Cool,Physical,10,1d10,4,-5,,
+Dark Pulse,Pulso umbrío,Dark,Cool,Special,25,3d4,4,0,Throw 1d10 and if the result is equal or less than 2 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 2 provocará un estremecimiento.
+Dark Void,Brecha negra,Dark,Clever,Other,30,--,2,-20,Puts all adjacent opposing pokémon in a range equal to MSpA to sleep.,Pone a dormir a todos los Pokémon oponentes adyacentes en un rango igual a MSpA.
+Defend Order,A defender,Bug,Clever,Other,30,--,2,0,Adds +25 to user's defense and special defense.,Agrega +25 a la defensa del usuario y defensa especial.
+Defense Curl,Rizo defensa,Normal,Cute,Other,1,--,2,0,Adds +25 to user's defense.,Agrega +25 a la defensa del usuario.
+Defog,Despejar,Flying,Cool,Other,25,--,2,0,Reduces -25 to opponent's evasiveness and clears fog.,Reduce -25 la evasión del oponente y elimina la niebla.
+Destiny Bond,Mismo destino,Ghost,Clever,Other,35,--,7,0,"If the user faints, the opponent also faints.","Si el usuario se desmaya, el oponente también se desmaya."
+Detect,Detección,Fight,Cool,Other,35,--,1,0,"Protects the user for a round, after the first consecutive time, roll 1d2, if 1 the effect goes on. Increase the die size each time until fail.","Protege al usuario durante una ronda, después de la primera vez consecutiva, tira 1d2, si 1 el efecto continúa. Aumente el tamaño del troquel cada vez hasta que falle."
+Dig,Excavar,Ground,Tough,Physical,30,3d4,2,0,"Digs underground on first round, attacks on second. Can also escape from caves.","Excava bajo tierra en la primera ronda, ataca en la segunda. También puede escapar de cuevas."
+Disable,Anulación,Normal,Clever,Other,20,--,2,0,Opponent can't use its last attack for a 1d6 rounds.,El oponente no puede utilizar su último ataque durante 1d6 asaltos.
+Discharge,Chispazo,Electr,Beautiful,Special,25,3d4,2,0,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent. Hits all pokémon in range.,Lanza 1d10 y si el resultado es igual o menor que 3 paralizará al oponente. Golpea a todos los pokémon dentro del alcance.
+Dive,Buceo,Water,Beautiful,Physical,30,3d4,2,0,"Dives underwater on first round, attacks on second round.","Se sumerge bajo el agua en la primera ronda, ataca en la segunda ronda."
+Dizzy Punch,Puño mareo,Normal,Cute,Physical,30,3d4,3,0,Throw 1d10 and if the result is equal or less than 2 it will confuse opponent.,Lanza 1d10 y si el resultado es igual o menor que 2 confundirá al oponente.
+Doom Desire,Deseo oculto,Steel,Beautiful,Special,35,3d8,3,0,Damage occurs 2 turns later.,El daño ocurre 2 turnos después.
+Double Hit,Doble golpe,Normal,Cool,Physical,30,1d6,2,-10,Attemps to hit twice in one turn.,Intenta golpear dos veces en un turno.
+Double Kick,Doble patada,Fight,Cool,Physical,10,1d6,2,0,Attemps to hit twice in one turn.,Intenta golpear dos veces en un turno.
+Double slap,Doble bofetón,Normal,Cute,Physical,30,1d2,1,-15,Attemps to hit 1d4+1 times in one turn.,Intenta acertar 1d4+1 veces en un turno.
+Double Team,Doble equipo,Normal,Cool,Other,25,--,1,0,Adds +25 to user's evasiveness.,Agrega +25 a la evasión del usuario.
+Double-edge,Doble filo,Normal,Tough,Physical,25,2d12,6,0,User receives 2d4 damage.,El usuario recibe 2d4 de daño.
+Draco Meteor,Cometa draco,Dragon,Beautiful,Special,35,3d8,6,-10,Reduces -50 to the user's special attack.,Reduce -50 al ataque especial del usuario.
+Dragon breath,Dragoaliento,Dragon,Cool,Special,20,1d12,2,0,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.,Lanza 1d10 y si el resultado es igual o menor que 3 paralizará al oponente.
+Dragon Claw,Garra dragón,Dragon,Cool,Physical,25,3d4,4,0,,
+Dragon Dance,Danza dragón,Dragon,Cool,Other,20,--,1,0,Adds +25 to user's attack and speed.,Agrega +25 al ataque y velocidad del usuario.
+Dragon Pulse,Pulso dragón,Dragon,Beautiful,Special,30,2d8,4,0,,
+Dragon Rage,Furia dragón,Dragon,Cool,Special,30,--,3,0,Always inflicts 40 HP.,Siempre inflige 40 hp.
+Dragon Rush,Carga dragón,Dragon,Tough,Physical,30,2d10,3,-25,Throw 1d10 and if the result is equal or less than 2 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 2 provocará un estremecimiento.
+Dragon Tail,Cola dragón,Dragon,Tough,Physical,30,1d12,3,-10,"In battles, the opponent switches. In the wild, the pokémon runs.","En las batallas, el oponente cambia. En estado salvaje, el pokémon corre."
+Drain Punch,Puño drenaje,Fight,Tough,Physical,30,3d4,1,0,User recovers half the HP inflicted on opponent.,El usuario recupera la mitad de los hp infligidos al oponente.
+Dream Eater,Comesueños,Psychc,Clever,Special,25,2d10,2,0,User recovers half the HP inflicted on a sleeping opponent.,El usuario recupera la mitad de los hp infligidos a un oponente dormido.
+Drill Peck,Pico taladro,Flying,Cool,Physical,20,3d4,3,0,,
+Drill Run,Taladradora,Ground,Tough,Physical,30,3d4,3,-5,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100.
+Dual Chop,Golpe bis,Dragon,Tough,Physical,25,2d4,2,-10,Attemps to hit twice in one turn.,Intenta golpear dos veces en un turno.
+Dynamic punch,Puño dinámico,Fight,Cool,Physical,35,2d10,2,-50,Confuses opponent.,Confunde al oponente.
+Earth Power,Tierra viva,Ground,Beautiful,Special,30,2d8,4,0,Throw 1d10 and if the result is equal to 1 it will lower opponent's special defense.,Lanza 1d10 y si el resultado es igual a 1 bajará la defensa especial del oponente.
+Earthquake,Terremoto,Ground,Tough,Physical,30,2d10,2,0,Power is doubled if opponent is underground from using Dig. Hits all pokémon in range.,El poder se duplica si el oponente está bajo tierra debido al uso de Excavación. Golpea a todos los pokémon dentro del alcance.
+Echoed Voice,Eco voz,Normal,Beautiful,Special,25,2d4,3,0,Add 1d4 for each consecutive time hit after the first one.,Añade 1d4 por cada golpe consecutivo después del primero.
+Egg Bomb,Bomba huevo,Normal,Cute,Physical,30,2d10,4,-25,,
+Electro Ball,Bola voltio,Electr,Cool,Special,30,--,3,0,Add mspe to the attack's damage.,Añade mspe al daño del ataque.
+Electroweb,Electrotela,Electr,Beautiful,Special,25,1d10,2,-5,Reduces -25 to opponent's speed.,Reduce -25 a la velocidad del oponente.
+Embargo,Embargo,Dark,Clever,Other,25,--,3,0,Opponent cannot use items on target pokémon.,El oponente no puede usar elementos en el Pokémon objetivo.
+Ember,Ascuas,Fire,Cute,Special,15,2d4,4,0,Throw 1d10 and if the result is equal to 1 it will burn opponent.,Lanza 1d10 y si el resultado es igual a 1 quemará al oponente.
+Encore,Otra vez,Normal,Cute,Other,35,--,2,0,Forces opponent to keep using its last move for 3 rounds.,Obliga al oponente a seguir usando su último movimiento durante 3 rondas.
+Endeavor,Esfuerzo,Normal,Tough,Physical,35,--,2,0,Reduces opponent's HP to same as user's.,Reduce el HP del oponente al mismo que el del usuario.
+Endure,Aguante,Normal,Tough,Other,30,--,3,0,"Always left with at least 1 HP, after the first consecutive time, roll 1d2, if 1 the effect goes on. Increase the die size each time until fail..","Siempre queda con al menos 1 hp, después de la primera vez consecutiva, tira 1d2, si 1 el efecto continúa. Aumente el tamaño del troquel cada vez hasta que falle."
+Energy Ball,Energibola,Grass,Beautiful,Special,30,3d4,4,0,Throw 1d10 and if the result is equal to 1 it will lower opponent's special defense.,Lanza 1d10 y si el resultado es igual a 1 bajará la defensa especial del oponente.
+Entrainment,Danza amiga,Normal,Cute,Other,25,--,2,0,Makes target's ability same as user's.,Hace que la habilidad del objetivo sea la misma que la del usuario.
+Eruption,Estallido,Fire,Beautiful,Special,35,3d10,6,0,Double the damage when the user's HP is higher than all of the opponents. Hits all opposing pokémon in range.,Duplica el daño cuando el HP del usuario es mayor que el de todos los oponentes. Golpea a todos los Pokémon enemigos dentro de su alcance.
+Explosion,Explosión,Normal,Beautiful,Physical,35,5d10,7,0,User faints. Hits all pokémon in range.,El usuario se desmaya. Golpea a todos los pokémon dentro del alcance.
+Extrasensory,Paranormal,Psychc,Cool,Special,10,3d4,2,0,Throw 1d10 and if the result is equal or less than 2 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 2 provocará un estremecimiento.
+Extreme speed,Velocidad extrema,Normal,Cool,Physical,35,3d4,3,0,"User may use this move before opponent's moves, counting as an action for next user's turn.","El usuario puede usar este movimiento antes de los movimientos del oponente, contando como una acción para el turno del siguiente usuario."
+Facade,Imagen,Normal,Cute,Physical,20,3d4,2,0,"Power doubles if user is burned, poisoned, or paralyzed.","El poder se duplica si el usuario se quema, envenena o queda paralizado."
+Fake Out,Sorpresa,Normal,Cute,Physical,30,2d4,2,0,"User may use this move before opponent's moves, counting as an action for next user's turn. Foe flinches. Only usable on first round.","El usuario puede usar este movimiento antes de los movimientos del oponente, contando como una acción para el turno del siguiente usuario. El enemigo se estremece. Solo utilizable en la primera ronda."
+Fake Tears,Llanto falso,Dark,Cute,Other,20,--,4,0,Reduces -50 to the opponent's special defense.,Reduce -50 a la defensa especial del oponente.
+False Swipe,Falso tortazo,Normal,Cool,Physical,1,2d4,4,0,Always leaves opponent with at least 1 HP.,Siempre deja al oponente con al menos 1 hp.
+Feather dance,Danza pluma,Flying,Beautiful,Other,25,--,2,0,Reduces -50 to the opponent's attack.,Reduce -50 al ataque del oponente.
+Feint,Amago,Normal,Clever,Physical,30,1d6,3,0,Only hits if opponent uses protect or detect in the same round.,Solo golpea si el oponente usa protección o detección en la misma ronda.
+Feint Attack,Finta,Dark,Clever,Physical,20,1d12,3,0,Ignores defenses.,Ignora las defensas.
+Fiery Dance,Danza llama,Fire,Beautiful,Special,30,3d4,1,0,Throw 1d10 and if the result is equal or less than 5 it will raise user's special attack.,Lanza 1d10 y si el resultado es igual o menor que 5 aumentará el ataque especial del usuario.
+Final Gambit,Sacrificio,Fight,Tough,Special,35,--,7,0,Inflicts damage equal to the user's remaining HP. User faints.,Inflige daño igual a los hp restantes del usuario. El usuario se desmaya.
+Fire Blast,Llamarada,Fire,Beautiful,Special,35,2d12,1,-15,Throw 1d10 and if the result is equal to 1 it will burn opponent.,Lanza 1d10 y si el resultado es igual a 1 quemará al oponente.
+Fire Fang,Colmillo ígneo,Fire,Cool,Physical,25,2d6,4,-5,"Throw 1d10 and if the result is equal to 1 it will burn opponent, and other throw 1d10 and if the result is equal or less than 3 it will cause flinching","Lanza 1d10 y si el resultado es igual a 1 quemará al oponente, y otros lanzan 1d10 y si el resultado es igual o menor a 3 provocará que se estremezca."
+Fire Pledge,Voto fuego,Fire,Beautiful,Special,30,1d10,2,0,if combined with grass pledge or water pledge does +1d10 and uses the best effectiveness of the used attacks.,"si se combina con promesa de hierba o promesa de agua, genera +1d10 y utiliza la mejor efectividad de los ataques utilizados."
+Fire Punch,Puño fuego,Fire,Tough,Physical,25,3d4,4,0,Throw 1d10 and if the result is equal to 1 it will burn opponent.,Lanza 1d10 y si el resultado es igual a 1 quemará al oponente.
+Fire Spin,Giro fuego,Fire,Beautiful,Special,25,1d6,3,-15,"Traps opponent, damaging them for 3+1d2 turns.",Atrapa al oponente y lo daña durante 3+1d2 turnos.
+Fissure,Fisura,Ground,Tough,Physical,35,--,2,-70,"One-hit-ko, if it hits.","One-hit-ko, si acierta."
+Flail,Azote,Normal,Cute,Physical,25,--,1,0,"The lower the user's HP, the higher the power.","Cuanto menor sea el hp del usuario, mayor será la potencia."
+Flame Burst,Pirotecnia,Fire,Beautiful,Special,25,3d4,3,0,May also injure nearby pokémon.,También puede herir a los pokémon cercanos.
+Flame Charge,Nitrocarga,Fire,Cool,Physical,20,1d10,1,0,Adds +25 to user's speed.,Agrega +25 a la velocidad del usuario.
+Flame Wheel,Rueda fuego,Fire,Beautiful,Physical,15,1d12,3,0,Throw 1d10 and if the result is equal to 1 it will burn opponent.,Lanza 1d10 y si el resultado es igual a 1 quemará al oponente.
+Flamethrower,Lanzallamas,Fire,Beautiful,Special,25,2d8,4,0,Throw 1d10 and if the result is equal to 1 it will burn opponent.,Lanza 1d10 y si el resultado es igual a 1 quemará al oponente.
+Flare Blitz,Envite ígneo,Fire,Cool,Physical,25,2d12,7,0,User receives 2d4 damage. 1d10 and if the result is equal to 1 it will burn opponent.,El usuario recibe 2d4 de daño. 1d10 y si el resultado es igual a 1 quemará al oponente.
+Flash,Destello,Normal,Beautiful,Other,20,--,3,0,Reduces -25 to opponent's accuracy.,Reduce -25 a la precisión del oponente.
+Flash Cannon,Foco resplandor,Steel,Beautiful,Special,30,3d4,4,0,Throw 1d10 and if the result is equal to 1 it will lower opponent's special defense.,Lanza 1d10 y si el resultado es igual a 1 bajará la defensa especial del oponente.
+Flatter,Camelo,Dark,Clever,Other,25,--,2,0,"Confuses opponent, but adds +25 to its special attack.","Confunde al oponente, pero añade +25 a su ataque especial."
+Fling,Lanzamiento,Dark,Cute,Physical,30,1d10,3,0,User loses their held item.,El usuario pierde el artículo que retiene.
+Fly,Vuelo,Flying,Clever,Physical,25,2d8,2,-5,"Flies up on first round, attacks on second round.","Vuela hacia arriba en el primer asalto, ataca en el segundo asalto."
+Focus Blast,Onda certera,Fight,Cool,Special,35,2d12,4,-30,Throw 1d10 and if the result is equal or less than 3 it will lower opponent's special defense.,Lanza 1d10 y si el resultado es igual o menor a 3 bajará la defensa especial del oponente.
+Focus Energy,Foco energía,Normal,Cool,Other,10,--,1,0,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll on the next move.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque de 1d100 en el siguiente movimiento.
+Focus Punch,Puño certero,Fight,Tough,Physical,20,3d10,2,0,"If the user is hit before attacking, it flinches instead.","Si el usuario es golpeado antes de atacar, se estremece."
+Follow Me,Señuelo,Normal,Cute,Other,20,--,3,0,The user becomes the target to all opponents' attacks for a round.,El usuario se convierte en el objetivo de todos los ataques de los oponentes durante una ronda.
+Force Palm,Palmeo,Fight,Cool,Physical,30,1d12,4,0,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.,Lanza 1d10 y si el resultado es igual o menor que 3 paralizará al oponente.
+Foresight,Profecía,Normal,Clever,Other,1,--,2,0,"Resets opponent's evasiveness, and allows normal- and fighting-type attacks to hit ghosts.",Restablece la evasión del oponente y permite que los ataques normales y de lucha golpeen a los fantasmas.
+Foul Play,Juego sucio,Dark,Clever,Physical,25,2d8,1,0,Uses the opponent's attack stat.,Utiliza la estadística de ataque del oponente.
+Freeze Shock,Rayo gélido,Ice,Beautiful,Physical,35,3d8,3,-10,"Charges on first round, attacks on second. Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.","Cargas en el primer asalto, ataques en el segundo. Lanza 1d10 y si el resultado es igual o menor que 3 paralizará al oponente."
+Frenzy Plant,Planta feroz,Grass,Cool,Special,35,3d10,4,-10,User must recharge next round.,El usuario debe recargar la siguiente ronda.
+Frost Breath,Vaho gélido,Ice,Beautiful,Special,30,2d4,4,-10,Always results in a critical hit.,Siempre resulta en un golpe crítico.
+Frustration,Frustración,Normal,Cute,Physical,20,6d6,2,0,Power decreases by 1d6 with every level up done with the trainer (max decrease of 5d6).,El poder disminuye en 1d6 con cada nivel que se realiza con el entrenador (disminución máxima de 5d6).
+Fury Attack,Ataque furia,Normal,Cool,Physical,20,1d2,1,-15,Attemps to hit 1d4+1 times in one turn.,Intenta acertar 1d4+1 veces en un turno.
+Fury Cutter,Corte furia,Bug,Cool,Physical,20,1d4,3,-5,Add 1d4 for each consecutive time hit after the first one.,Añade 1d4 por cada golpe consecutivo después del primero.
+Fury Swipes,Golpes furia,Normal,Tough,Physical,25,1d2,1,-20,Attemps to hit 1d4+1 times in one turn.,Intenta acertar 1d4+1 veces en un turno.
+Fusion Bolt,Rayo fusión,Electr,Cool,Physical,35,2d10,1,0,Add 1d10 damage if fusion flare is used in the same turn.,Añade 1d10 de daño si se usa una bengala de fusión en el mismo turno.
+Fusion Flare,Llama fusión,Fire,Beautiful,Special,35,2d10,1,0,Add 1d10 damage if fusion bolt is used in the same turn.,Añade 1d10 de daño si se usa el perno de fusión en el mismo turno.
+Future Sight,Premonición,Psychc,Clever,Special,30,2d10,2,0,Damage occurs 2 turns later.,El daño ocurre 2 turnos después.
+Gastro Acid,Bilis,Poison,Tough,Other,30,--,3,0,Cancels out the effect of the opponent's ability.,Anula el efecto de la habilidad del oponente.
+Gear Grind,Rueda doble,Steel,Clever,Physical,25,1d10,4,-15,Attemps to hit twice in one turn.,Intenta golpear dos veces en un turno.
+Giga Drain,Gigadrenado,Grass,Clever,Special,30,3d4,1,0,User recovers half the HP inflicted on opponent.,El usuario recupera la mitad de los hp infligidos al oponente.
+Giga Impact,Gigaimpacto,Normal,Tough,Physical,35,3d10,4,-10,User must recharge next turn.,El usuario debe recargar el próximo turno.
+Glaciate,Mundo gélido,Ice,Beautiful,Special,30,2d6,3,-5,Reduces -25 to opponent's speed.,Reduce -25 a la velocidad del oponente.
+Glare,Deslumbrar,Normal,Tough,Other,10,--,1,-10,Paralyzes opponent.,Paraliza al oponente.
+Grass Knot,Hierba lazo,Grass,Cute,Special,20,--,1,0,"For every stage of weight the opponent has, add +1d12 to the attack's damage.","Por cada nivel de peso que tenga el oponente, suma +1d12 al daño del ataque."
+Grass Pledge,Voto planta,Grass,Beautiful,Special,30,1d10,2,0,If combined with water pledge or fire pledge does +1d10 and uses the best effectiveness of the used attacks.,"Si se combina con promesa de agua o promesa de fuego, genera +1d10 y utiliza la mejor efectividad de los ataques utilizados."
+Grass whistle,Silbato,Grass,Clever,Other,25,--,2,-45,Puts opponent to sleep.,Pone a dormir al oponente.
+Gravity,Gravedad,Psychc,Clever,Other,35,--,2,0,Prevents moves like fly and bounce and the ability levitate for 5 turns.,Previene movimientos como volar y rebotar y la habilidad de levitar durante 5 turnos.
+Growl,Gruñido,Normal,Cute,Other,1,--,2,0,Reduces -25 to opponent's attack.,Reduce -25 al ataque del oponente.
+Growth,Desarrollo,Normal,Beautiful,Other,1,--,1,0,Adds +25 to user's attack and special attack.,Agrega +25 al ataque del usuario y al ataque especial.
+Grudge,Rabia,Ghost,Tough,Other,35,--,4,0,"If the users faints after using this move, the pp for the opponent is depleted for 1d2 rounds.","Si el usuario se desmaya después de usar este movimiento, los pp del oponente se agotan durante 1d2 rondas."
+Guard Split,Isoguardia,Psychc,Clever,Other,30,--,1,0,Averages defense and special defense with the target.,Defensa media y defensa especial con la diana.
+Guard Swap,Cambiadefensa,Psychc,Clever,Other,30,--,1,0,User and opponent swap defense and special defense.,Usuario y oponente intercambian defensa y defensa especial.
+Guillotine,Guillotina,Normal,Cool,Physical,35,--,2,-70,"One-hit-ko, if it hits.","One-hit-ko, si acierta."
+Gunk Shot,Lanzamugre,Poison,Tough,Physical,35,2d12,2,-30,Throw 1d10 and if the result is equal or less than 3 it will poison opponent.,Lanza 1d10 y si el resultado es igual o menor que 3 envenenará al oponente.
+Gust,Tornado,Flying,Clever,Special,5,2d4,2,0,Hits pokémon using fly/bounce/sky drop with double power.,Golpea a Pokémon usando volar/rebotar/caer al cielo con doble potencia.
+Gyro Ball,Giro bola,Steel,Cool,Physical,35,--,1,0,Add 15-mspe to the attack damage. Cannot be less than 0.,Añade 15 mspe al daño del ataque. No puede ser menor que 0.
+Hail,Granizo,Ice,Beautiful,Other,30,--,2,0,Non-ice types are damaged for 5 turns.,Los tipos que no son de hielo se dañan durante 5 turnos.
+Hammer Arm,Machada,Fight,Tough,Physical,30,2d10,6,-10,Reduces -25 to user's speed.,Reduce -25 a la velocidad del usuario.
+Harden,Fortaleza,Normal,Tough,Other,10,--,2,0,Adds +25 to user's defense.,Agrega +25 a la defensa del usuario.
+Haze,Niebla,Ice,Beautiful,Other,10,--,3,0,Resets all stat changes.,Restablece todos los cambios de estadísticas.
+Head Charge,Ariete,Normal,Tough,Physical,25,2d12,6,0,User receives 1d6 recoil damage.,El usuario recibe 1d6 de daño por retroceso.
+Head Smash,Testarazo,Rock,Tough,Physical,35,3d10,6,-20,User receives 3d4 recoil damage.,El usuario recibe 3d4 de daño por retroceso.
+Headbutt,Golpe cabeza,Normal,Tough,Physical,25,3d4,4,0,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 3 provocará un estremecimiento.
+Heal Bell,Cascabel cura,Normal,Beautiful,Other,35,--,1,0,Heals the user's party's status conditions.,Cura las condiciones de estado del grupo del usuario.
+Heal Block,Anticura,Psychc,Clever,Other,25,--,3,0,Prevents the opponent from restoring HP for 5 turns.,Impide que el oponente recupere HP durante 5 turnos.
+Heal Order,Auxilio,Bug,Clever,Other,30,--,2,0,User recovers half its maximum HP.,El usuario recupera la mitad de su hp máximo.
+Heal Pulse,Pulso cura,Psychc,Beautiful,Other,30,--,2,0,Restores half the target's maximum HP.,Restaura la mitad del HP máximo del objetivo.
+Healing Wish,Deseo cura,Psychc,Beautiful,Other,30,--,7,0,The user faints and the next pokémon released is fully healed.,El usuario se desmaya y el siguiente pokémon liberado queda completamente curado.
+Heart Stamp,Arrumaco,Psychc,Cute,Physical,15,1d12,3,0,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 3 provocará un estremecimiento.
+Heart Swap,Cambiaalmas,Psychc,Clever,Other,30,--,1,0,Stat changes are swapped with the opponent.,Los cambios de estadísticas se intercambian con los del oponente.
+Heat Crash,Golpe calor,Fire,Tough,Physical,30,--,3,0,"For every stage of weight the opponent has, add +1d12 to the attack's damage.","Por cada nivel de peso que tenga el oponente, suma +1d12 al daño del ataque."
+Heat Wave,Onda ígnea,Fire,Beautiful,Special,30,2d10,2,-10,Throw 1d10 and if the result is equal to 1 it will burn opponent. Hits all opposing pokémon in range.,Lanza 1d10 y si el resultado es igual a 1 quemará al oponente. Golpea a todos los Pokémon enemigos dentro de su alcance.
+Heavy Slam,Cuerpo pesado,Steel,Tough,Physical,30,--,3,0,"For every stage of weight the opponent has, add +1d12 to the attack's damage.","Por cada nivel de peso que tenga el oponente, suma +1d12 al daño del ataque."
+Helping Hand,Refuerzo,Normal,Clever,Other,20,--,4,0,Doubles the power of the partner's move.,Duplica el poder del movimiento del compañero.
+Hex,Infortunio,Ghost,Clever,Special,30,1d10,2,0,Inflicts double damage if the target has a status condition.,Inflige el doble de daño si el objetivo tiene una condición de estado.
+Hidden Power,Poder oculto,Normal,Clever,Special,25,1d12,3,0,"Each time attacking, select the type by throwing 1d20; 1:bug 2:electric 3:flying 4:ground 5:poison 6:steel 7:dark 8:fight 9:ghost 10:ice 11:psychic 12:water 13:dragon 14:fire 15:grass 16:normal 17:rock 19-20 reroll.","Cada vez que ataques, selecciona el tipo lanzando 1d20; 1: error 2: eléctrico 3: vuelo 4: tierra 5: veneno 6: acero 7: oscuro 8: lucha 9: fantasma 10: hielo 11: psíquico 12: agua 13: dragón 14: fuego 15: hierba 16: normal 17: roca 19-20 reroll."
+High Jump Kick,Patada salto alta,Fight,Cool,Physical,30,3d8,7,-10,"If it misses, the user loses half their HP.","Si falla, el usuario pierde la mitad de su HP."
+Hone Claws,Afilagarras,Dark,Cute,Other,25,--,1,0,Adds +25 to user's attack and accuracy.,Agrega +25 al ataque y precisión del usuario.
+Horn Attack,Cornada,Normal,Cool,Physical,15,2d6,4,0,,
+Horn Drill,Perforador,Normal,Cool,Physical,35,--,2,-70,"One-hit-ko, if it hits.","One-hit-ko, si acierta."
+Horn Leech,Asta drenaje,Grass,Tough,Physical,30,3d4,1,0,User recovers half the HP inflicted on opponent.,El usuario recupera la mitad de los hp infligidos al oponente.
+Howl,Aullido,Normal,Cool,Other,1,--,2,0,Adds +25 to attack of allies.,Agrega +25 al ataque de los aliados.
+Hurricane,Vendaval,Flying,Tough,Special,30,2d12,2,-30,Throw 1d10 and if the result is equal or less than 3 it will confuse opponent.,Lanza 1d10 y si el resultado es igual o menor que 3 confundirá al oponente.
+Hydro Cannon,Hidrocañón,Water,Beautiful,Special,35,3d10,4,-10,User must recharge next turn.,El usuario debe recargar el próximo turno.
+Hydro Pump,Hidrobomba,Water,Beautiful,Special,35,2d12,1,-20,,
+Hyper Beam,Hiperrayo,Normal,Cool,Special,35,3d10,4,-10,User must recharge next turn.,El usuario debe recargar el próximo turno.
+Hyper Fang,Hipercolmillo,Normal,Cool,Physical,25,3d4,3,-10,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 3 provocará un estremecimiento.
+Hyper Voice,Vozarrón,Normal,Cool,Special,30,2d8,2,0,,
+Hypnosis,Hipnosis,Psychc,Clever,Other,20,--,1,-40,Puts opponent to sleep.,Pone a dormir al oponente.
+Ice Ball,Bola hielo,Ice,Beautiful,Physical,20,1d6,3,-10,"Adds 1d6 each turn for 5 rounds, cannot use another move or not use moves each round until finishing the 5 rounds or missing any attack.","Agrega 1d6 cada turno durante 5 rondas, no puede usar otro movimiento o no usar movimientos en cada ronda hasta terminar las 5 rondas o fallar algún ataque."
+Ice Beam,Rayo hielo,Ice,Beautiful,Special,30,2d8,1,0,Throw 1d10 and if the result is equal to 1 it will freeze opponent.,Lanza 1d10 y si el resultado es igual a 1 congelará al oponente.
+Ice Burn,Llama gélida,Ice,Beautiful,Special,35,3d8,3,-10,"Charges on first round, attacks on second. Throw 1d10 and if the result is equal or less than 3 it will burn opponent.","Cargas en el primer asalto, ataques en el segundo. Lanza 1d10 y si el resultado es igual o menor que 3 quemará al oponente."
+Ice Fang,Colmillo hielo,Ice,Cool,Physical,25,2d6,4,-5,"Throw 1d10 and if the result is equal to 1 it will freeze opponent, and other throw 1d10 and if the result is equal or less than 3 it will cause flinching","Lanza 1d10 y si el resultado es igual o menor a 1 congelará al oponente, y otros lanzan 1d10 y si el resultado es igual o menor a 3 provocará que se estremezca."
+Ice Punch,Puño hielo,Ice,Beautiful,Physical,25,3d4,4,0,throw 1d10 and if the result is equal to 1 it will freeze opponent.,lanza 1d10 y si el resultado es igual a 1 congelará al oponente.
+Ice Shard,Esquirla helada,Ice,Beautiful,Physical,10,2d4,3,0,"User may use this move before opponent's moves, counting as an action for next user's turn.","El usuario puede usar este movimiento antes de los movimientos del oponente, contando como una acción para el turno del siguiente usuario."
+Icicle Crash,Chuzos,Ice,Beautiful,Physical,30,2d8,3,-10,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 3 provocará un estremecimiento.
+Icicle Spear,Carámbano,Ice,Beautiful,Physical,10,1d4,1,0,Attemps to hit 1d4+1 times in one turn.,Intenta acertar 1d4+1 veces en un turno.
+Icy Wind,Viento hielo,Ice,Beautiful,Special,25,1d10,4,-5,Reduces -25 to opponent's speed.,Reduce -25 a la velocidad del oponente.
+Imprison,Sellar,Psychc,Clever,Other,30,--,3,0,Opponent is unable to use moves that the user also knows.,El oponente no puede utilizar movimientos que el usuario también conozca.
+Incinerate,Calcinación,Fire,Tough,Special,25,1d6,3,0,Destroys the target's held berry.,Destruye la baya retenida por el objetivo.
+Inferno,Infierno,Fire,Beautiful,Special,35,2d10,1,-50,Burns opponent.,Quema al oponente.
+Ingrain,Arraigo,Grass,Clever,Other,20,--,1,0,User restores HP each turn. User cannot escape/switch.,El usuario restaura hp en cada turno. El usuario no puede escapar/cambiar.
+Iron Defense,Defensa férrea,Steel,Tough,Other,25,--,1,0,Adds +33 to user's defense.,Agrega +33 a la defensa del usuario.
+Iron Head,Cabeza de hierro,Steel,Tough,Physical,25,3d4,4,0,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 3 provocará un estremecimiento.
+Iron Tail,Cola férrea,Steel,Cool,Physical,25,2d10,4,-25,Throw 1d10 and if the result is equal or less than 2 it will lower opponent's defense.,Lanza 1d10 y si el resultado es igual o menor a 2 bajará la defensa del oponente.
+Judgment,Sentencia,Normal,Beautiful,Special,30,2d10,3,0,Type depends on the arceus plate being held.,El tipo depende de la placa de arceus que se esté sosteniendo.
+Jump Kick,Patada salto,Fight,Cool,Physical,30,2d10,7,-5,"If it misses, the user loses half their HP.","Si falla, el usuario pierde la mitad de su HP."
+Karate Chop,Golpe kárate,Fight,Tough,Physical,15,1d10,4,0,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100.
+Kinesis,Kinético,Psychc,Clever,Other,25,--,3,-20,Reduces -25 to opponent's accuracy.,Reduce -25 a la precisión del oponente.
+Knock Off,Desarme,Dark,Clever,Physical,20,1d4,2,0,Removes opponent's held item for the rest of the battle.,Elimina el objeto retenido por el oponente por el resto de la batalla.
+Last Resort,Última baza,Normal,Cute,Physical,35,3d8,1,0,Can only be used before user's next round.,Solo se puede usar antes de la siguiente ronda del usuario.
+Lava Plume,Humareda,Fire,Tough,Special,25,3d4,2,0,Throw 1d10 and if the result is equal or less than 3 it will burn opponent. Hits all pokémon in range.,Lanza 1d10 y si el resultado es igual o menor que 3 quemará al oponente. Golpea a todos los pokémon dentro del alcance.
+Leaf Blade,Hoja aguda,Grass,Cool,Physical,25,2d8,3,0,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100.
+Leaf Storm,Lluevehojas,Grass,Beautiful,Special,35,3d8,6,-10,Reduces -50 to the user's special attack.,Reduce -50 al ataque especial del usuario.
+Leaf Tornado,Ciclón de hojas,Grass,Cool,Special,30,2d6,3,-10,Throw 1d10 and if the result is equal to 1 it will lower opponent's accuracy.,Lanza 1d10 y si el resultado es igual a 1 disminuirá la precisión del oponente.
+Leech Life,Chupavidas,Bug,Clever,Physical,25,1d4,1,0,User recovers half the HP inflicted on opponent.,El usuario recupera la mitad de los hp infligidos al oponente.
+Leech Seed,Drenadoras,Grass,Clever,Other,30,--,1,-10,"Drains HP from opponent each turn equal to user's mspa or matt, wichever is greater.","Drena HP del oponente en cada turno igual al mspa o matt del usuario, lo que sea mayor."
+Leer,Malicioso,Normal,Cool,Other,10,--,2,0,Reduces -25 to opponent's defense.,Reduce -25 a la defensa del oponente.
+Lick,Lengüetazo,Ghost,Cute,Physical,10,1d4,2,0,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.,Lanza 1d10 y si el resultado es igual o menor que 3 paralizará al oponente.
+Light Screen,Pantalla de luz,Psychc,Beautiful,Other,10,--,2,0,Halves damage from special attacks for 5 turns.,Reduce a la mitad el daño de los ataques especiales durante 5 turnos.
+Lock-on,Fijar blanco,Normal,Clever,Other,35,--,3,0,User's next attack is guaranteed to hit.,Se garantiza que el próximo ataque del usuario acertará.
+Lovely Kiss,Beso amoroso,Normal,Beautiful,Other,30,--,4,-25,Puts opponent to sleep.,Pone a dormir al oponente.
+Low Kick,Patada baja,Fight,Tough,Physical,20,--,1,0,"For every stage of weight the opponent has, add +1d12 to the attack's damage.","Por cada nivel de peso que tenga el oponente, suma +1d12 al daño del ataque."
+Low Sweep,Puntapié,Fight,Clever,Physical,20,1d12,2,0,Reduces -25 to opponent's speed.,Reduce -25 a la velocidad del oponente.
+Lucky Chant,Conjuro,Normal,Cute,Other,10,--,1,0,Opponent cannot land critical hits for 5 turns.,El oponente no puede asestar golpes críticos durante 5 turnos.
+Lunar Dance,Danza lunar,Psychc,Beautiful,Other,30,--,7,0,The user faints but the next pokémon released is fully healed.,El usuario se desmaya pero el siguiente Pokémon liberado está completamente curado.
+Luster Purge,Resplandor,Psychc,Clever,Special,35,3d4,2,0,Throw 1d10 and if the result is equal to 1 it will lower opponent's special defense.,Lanza 1d10 y si el resultado es igual a 1 bajará la defensa especial del oponente.
+Mach Punch,Ultrapuño,Fight,Cool,Physical,10,2d4,3,0,"User may use this move before opponent's moves, counting as an action for next user's turn.","El usuario puede usar este movimiento antes de los movimientos del oponente, contando como una acción para el turno del siguiente usuario."
+Magic Coat,Capa mágica,Psychc,Beautiful,Other,25,--,2,0,Reflects moves that cause status conditions back to the attacker.,Refleja movimientos que causan condiciones de estado al atacante.
+Magic Room,Zona mágica,Psychc,Clever,Other,30,--,3,0,Suppresses the effects of held items for five turns.,Suprime los efectos de los objetos retenidos durante cinco turnos.
+Magical Leaf,Hoja mágica,Grass,Beautiful,Special,20,1d12,2,0,Ignores defenses.,Ignora las defensas.
+Magma Storm,Lluvia ígnea,Fire,Tough,Special,35,2d12,3,-25,"Traps opponent, damaging them for 3+1d2 turns.",Atrapa al oponente y lo daña durante 3+1d2 turnos.
+Magnet Bomb,Bomba imán,Steel,Cool,Physical,20,1d12,2,0,Ignores defenses.,Ignora las defensas.
+Magnet Rise,Levitón,Electr,Clever,Other,30,--,2,0,User becomes immune to ground-type moves for 5 turns.,El usuario se vuelve inmune a los movimientos de tipo terrestre durante 5 turnos.
+Magnitude,Magnitud,Ground,Tough,Physical,10,--,1,0,"Hits with xd4, where x is set with 1d10.","Golpea con xd4, donde x se establece con 1d10."
+Me First,Yo primero,Normal,Clever,Other,20,--,3,0,User copies the opponent's attack with 1.5× power.,"El usuario copia el ataque del oponente con 1,5 × de poder."
+Mean Look,Mal de ojo,Normal,Beautiful,Other,35,--,2,0,Opponent cannot flee or switch.,El oponente no puede huir ni cambiar.
+Meditate,Meditación,Psychc,Beautiful,Other,1,--,1,0,Adds +25 to user's attack.,Agrega +25 al ataque del usuario.
+Mega Drain,Megaagotar,Grass,Clever,Special,25,2d4,2,0,User recovers half the HP inflicted on opponent.,El usuario recupera la mitad de los hp infligidos al oponente.
+Mega Kick,Megapatada,Normal,Cool,Physical,35,2d12,1,-25,,
+Mega Punch,Megapuño,Normal,Tough,Physical,20,3d4,3,-15,,
+Megahorn,Megacuerno,Bug,Cool,Physical,30,2d12,3,-15,,
+Memento,Legado,Dark,Tough,Other,30,--,7,0,"User faints, reduces -50 to the opponent's attack and special attack.","El usuario se desmaya, reduce -50 al ataque del oponente y al ataque especial."
+Metal Burst,Represión metal,Steel,Cool,Physical,30,--,2,0,Deals damage equal to 1.5x opponent's attack.,"Inflige un daño equivalente a 1,5 veces el ataque del oponente."
+Metal Claw,Garra metal,Steel,Cool,Physical,5,1d10,4,-5,Throw 1d10 and if the result is equal to 1 it will raise user's attack.,Lanza 1d10 y si el resultado es igual a 1 aumentará el ataque del usuario.
+Metal Sound,Eco metálico,Steel,Clever,Other,1,--,1,-15,Reduces -50 to the opponent's special defense.,Reduce -50 a la defensa especial del oponente.
+Meteor Mash,Puño meteoro,Steel,Cool,Physical,30,2d10,3,-15,Throw 1d10 and if the result is equal or less than 2 it will raise user's attack.,Lanza 1d10 y si el resultado es igual o menor que 2 aumentará el ataque del usuario.
+Metronome,Metrónomo,Normal,Cute,Other,30,--,1,0,"Throw 10d100, user performes the move in the position of the result. If number greater than the number of moves, start again from the last number set. If maximum possible with the throw does not reach the number of moves, add 1d100 until maximum possible is greater than the number of moves.","Lanza 10d100, el usuario realiza el movimiento en la posición del resultado. Si el número es mayor que el número de movimientos, comience nuevamente desde el último número establecido. Si el máximo posible con el lanzamiento no llega al número de movimientos, suma 1d100 hasta que el máximo posible sea mayor que el número de movimientos."
+Milk Drink,Batido,Normal,Cute,Other,30,--,2,0,User recovers half its maximum HP.,El usuario recupera la mitad de su hp máximo.
+Mimic,Mimético,Normal,Cute,Other,30,--,1,0,Copies the opponent's last move.,Copia el último movimiento del oponente.
+Mind Reader,Telépata,Normal,Clever,Other,35,--,3,0,User's next attack ignores defenses.,El próximo ataque del usuario ignora las defensas.
+Minimize,Reducción,Normal,Cute,Other,20,--,1,0,Adds +33 to user's evasiveness.,Agrega +33 a la evasión del usuario.
+Miracle Eye,Gran ojo,Psychc,Clever,Other,1,--,2,0,"Resets opponent's evasiveness, removes dark's psychic immunity.",Restablece la evasión del oponente y elimina la inmunidad psíquica de Dark.
+Mirror Coat,Manto espejo,Psychc,Beautiful,Special,20,--,2,0,"When hit by a special attack, user strikes back with 2x power.","Cuando es golpeado por un ataque especial, el usuario contraataca con el doble de poder."
+Mirror Move,Espejo,Flying,Clever,Other,20,--,1,0,User performs the opponent's last move.,El usuario realiza el último movimiento del oponente.
+Mirror Shot,Disparo espejo,Steel,Beautiful,Special,30,2d6,2,-15,Throw 1d10 and if the result is equal to 1 it will lower opponent's accuracy.,Lanza 1d10 y si el resultado es igual a 1 disminuirá la precisión del oponente.
+Mist,Neblina,Ice,Beautiful,Other,10,--,1,0,User's stats cannot be changed for 1d4+2 rounds.,Las estadísticas del usuario no se pueden cambiar durante 1d4+2 rondas.
+Mist Ball,Bola neblina,Psychc,Clever,Special,35,3d4,2,0,Throw 1d10 and if the result is equal to 1 it will lower opponent's special attack.,Lanza 1d10 y si el resultado es igual a 1 bajará el ataque especial del oponente.
+Moonlight,Luz lunar,Normal,Beautiful,Other,35,--,1,0,"User recovers HP. 1D8, doubled if during clear night, halved during any weather condition.","El usuario recupera hp. 1D8, duplicado si es durante una noche despejada, reducido a la mitad durante cualquier condición climática."
+Morning Sun,Sol matinal,Normal,Beautiful,Other,35,--,1,0,"User recovers HP. 1D8, doubled if during clear day, halved during any weather condition.","El usuario recupera hp. 1D8, duplicado si es durante un día despejado, reducido a la mitad durante cualquier condición climática."
+Mud Bomb,Bomba fango,Ground,Cute,Special,30,2d6,2,-15,Throw 1d10 and if the result is equal to 1 it will lower opponent's accuracy.,Lanza 1d10 y si el resultado es igual a 1 disminuirá la precisión del oponente.
+Mud Shot,Disparo lodo,Ground,Tough,Special,25,1d10,4,-5,Reduces -25 to opponent's speed.,Reduce -25 a la velocidad del oponente.
+Mud Sport,Chapoteo lodo,Ground,Cute,Other,25,--,2,0,Halves the power of electric-type moves.,Reduce a la mitad la potencia de los movimientos de tipo eléctrico.
+Mud-slap,Bofetón lodo,Ground,Cute,Special,30,1d4,2,0,Reduces -25 to opponent's accuracy.,Reduce -25 a la precisión del oponente.
+Muddy Water,Agua lodosa,Water,Tough,Special,30,2d8,2,-15,"Throw 1d10, if 3 it will lower opponent's accuracy. Hits all opposing pokémon in range.","Lanza 1d10, si es 3 reducirá la precisión del oponente. Golpea a todos los Pokémon enemigos dentro de su alcance."
+Nasty Plot,Maquinación,Dark,Clever,Other,20,--,1,0,Adds +33 to user's special attack.,Agrega +33 al ataque especial del usuario.
+Natural Gift,Don natural,Normal,Clever,Physical,25,3d4,1,0,No damage done if user is not holding a berry.,No se producen daños si el usuario no sostiene una baya.
+Nature Power,Adaptación,Normal,Beautiful,Other,20,--,1,0,"Uses a certain move based on the current terrain; urban:Tri Attack, sand:Earthquake, cave:Rock Slide, grass:Seed Bomb, water:Hydro Pump, snow:Ice Beam.","Utiliza un movimiento determinado según el terreno actual; urbano:Tri Attack, arena:Terremoto, cueva:Rock Slide, hierba:Seed Bomb, agua:Hydro Pump, nieve:Ice Beam."
+Needle Arm,Brazo pincho,Grass,Clever,Physical,25,1d12,4,0,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 3 provocará un estremecimiento.
+Night Daze,Pulso noche,Dark,Cool,Special,30,2d8,3,-5,Throw 1d10 and if the result is equal or less than 2 it will lower opponent's accuracy.,Lanza 1d10 y si el resultado es igual o menor que 2 disminuirá la precisión del oponente.
+Night Shade,Tinieblas,Ghost,Clever,Special,25,--,3,0,Inflicts damage equal to double the user's level.,Inflige daño equivalente al doble del nivel del usuario.
+Night Slash,Tajo umbrío,Dark,Cool,Physical,25,3d4,3,0,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100.
+Nightmare,Pesadilla,Ghost,Clever,Other,25,--,1,0,Sleeping opponent loses 25% of its maximum HP each turn.,El oponente dormido pierde el 25% de su HP máximo cada turno.
+Octazooka,Pulpocañón,Water,Tough,Special,30,2d6,3,-15,Throw 1d10 and if the result is equal or less than 2 it will lower opponent's accuracy.,Lanza 1d10 y si el resultado es igual o menor que 2 disminuirá la precisión del oponente.
+Odor Sleuth,Rastreo,Normal,Clever,Other,1,--,2,0,"Resets opponent's evasiveness, and allows normal- and fighting-type attacks to hit ghosts.",Restablece la evasión del oponente y permite que los ataques normales y de lucha golpeen a los fantasmas.
+Ominous Wind,Viento aciago,Ghost,Beautiful,Special,35,1d12,1,0,Throw 1d10 and if the result is equal to 1 it will raise all user's stats at once.,Lanza 1d10 y si el resultado es igual a 1 aumentará las estadísticas de todos los usuarios a la vez.
+Outrage,Enfado,Dragon,Cool,Physical,30,2d12,7,0,User attacks for 1d4 turns but then becomes confused.,El usuario ataca durante 1d4 turnos pero luego se confunde.
+Overheat,Sofoco,Fire,Beautiful,Special,35,3d8,6,-10,Reduces -50 to the user's special attack.,Reduce -50 al ataque especial del usuario.
+Pain Split,Divide dolor,Normal,Clever,Other,20,--,1,0,The user's and opponent's HP becomes the average of both.,Los hp del usuario y del oponente se convierten en el promedio de ambos.
+Pay Day,Día de pago,Normal,Clever,Physical,20,2d4,2,0,Money is earned after the battle if battling another trainer (not trainer's).,El dinero se gana después de la batalla si se lucha contra otro entrenador (no contra el entrenador).
+Payback,Vendetta,Dark,Tough,Physical,30,1d10,2,0,Power doubles if the user was attacked first.,El poder se duplica si el usuario fue atacado primero.
+Peck,Picotazo,Flying,Cool,Physical,5,1d6,4,0,,
+Perish Song,Canto mortal,Normal,Beautiful,Other,35,--,4,0,"Any pokémon in range when this attack is used faints in 3 turns, including user.","Cualquier Pokémon dentro del alcance cuando se usa este ataque se desmaya en 3 turnos, incluido el usuario."
+Petal Dance,Danza pétalo,Grass,Beautiful,Special,30,2d12,6,0,User attacks for 1d4 turns but then becomes confused.,El usuario ataca durante 1d4 turnos pero luego se confunde.
+Pin Missile,Pin misil,Bug,Cool,Physical,20,1d4,1,-15,Attemps to hit 1d4+1 times in one turn.,Intenta acertar 1d4+1 veces en un turno.
+Pluck,Picoteo,Flying,Cute,Physical,20,1d12,3,0,"If the opponent is holding a berry, its effect is stolen by user.","Si el oponente sostiene una baya, el usuario roba su efecto."
+Poison Fang,Colmillo veneno,Poison,Clever,Physical,25,1d10,4,0,Throw 1d10 and if the result is equal or less than 3 it will badly poison opponent.,Lanza 1d10 y si el resultado es igual o menor que 3 envenenará gravemente al oponente.
+Poison Gas,Gas venenoso,Poison,Clever,Other,1,--,3,-20,Poisons opponent.,Envenena al oponente.
+Poison Jab,Puya nociva,Poison,Tough,Physical,20,3d4,4,0,Throw 1d10 and if the result is equal or less than 3 it will poison the opponent.,Lanza 1d10 y si el resultado es igual o menor que 3 envenenará al oponente.
+Poison powder,Polvo veneno,Poison,Clever,Other,5,--,3,-25,Poisons opponent.,Envenena al oponente.
+Poison Sting,Picotazo veneno,Poison,Clever,Physical,5,1d2,2,0,Throw 1d10 and if the result is equal or less than 3 it will poison the opponent.,Lanza 1d10 y si el resultado es igual o menor que 3 envenenará al oponente.
+Poison Tail,Cola veneno,Poison,Clever,Physical,15,1d10,3,0,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll. Throw 1d10 and if the result is equal or less than 3 it will poison opponent.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100. Lanza 1d10 y si el resultado es igual o menor que 3 envenenará al oponente.
+Pound,Destructor,Normal,Tough,Physical,5,2d4,4,0,,
+Powder Snow,Nieve polvo,Ice,Beautiful,Special,15,2d4,4,0,Throw 1d10 and if the result is equal to 1 it will freeze opponent.,Lanza 1d10 y si el resultado es igual a 1 congelará al oponente.
+Power Gem,Joya de luz,Rock,Beautiful,Special,20,3d4,4,0,,
+Power Split,Isofuerza,Psychc,Clever,Other,30,--,1,0,Averages attack and special attack with the target.,Ataque promedio y ataque especial con el objetivo.
+Power Swap,Cambiafuerza,Psychc,Clever,Other,30,--,1,0,User and opponent swap attack and special attack.,Usuario y oponente intercambian ataques y ataques especiales.
+Power Trick,Truco fuerza,Psychc,Clever,Other,30,--,2,0,User's own attack and defense switch.,Cambio de ataque y defensa propio del usuario.
+Power Whip,Latigazo,Grass,Tough,Physical,30,2d12,1,-15,,
+Present,Presente,Normal,Cute,Physical,25,--,3,-10,"Throw 1d10 and if the result is 1-4 does 2d4 damage, if 5-7 does 3d4 damage, if 8 does 4d4 damage and if 9-10 heals the target 2d4.","Lanza 1d10 y si el resultado es 1-4 hace 2d4 de daño, si 5-7 hace 3d4 de daño, si 8 hace 4d4 de daño y si 9-10 cura al objetivo 2d4."
+Protect,Protección,Normal,Cute,Other,30,--,2,0,"Protects the user for a round, after the first consecutive time, roll 1d2, if 1 the effect goes on. Increase the die size each time until fail.","Protege al usuario durante una ronda, después de la primera vez consecutiva, tira 1d2, si 1 el efecto continúa. Aumente el tamaño del troquel cada vez hasta que falle."
+Psybeam,Psicorrayo,Psychc,Beautiful,Special,20,2d6,3,0,Throw 1d10 and if the result is equal or less than 3 it will confuse opponent.,Lanza 1d10 y si el resultado es igual o menor que 3 confundirá al oponente.
+Psych Up,Autosugestión,Normal,Clever,Other,30,--,2,0,Copies the opponent's stat changes.,Copia los cambios de estadísticas del oponente.
+Psychic,Psíquico,Psychc,Clever,Special,30,2d8,4,0,Throw 1d10 and if the result is equal to 1 it will lower opponent's special defense.,Lanza 1d10 y si el resultado es igual a 1 bajará la defensa especial del oponente.
+Psycho Boost,Psicoataque,Psychc,Clever,Special,35,3d8,6,-10,Reduces -50 to the user's special attack.,Reduce -50 al ataque especial del usuario.
+Psycho Cut,Psicocorte,Psychc,Cool,Physical,20,3d4,4,0,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100.
+Psycho Shift,Psicocambio,Psychc,Clever,Other,30,--,2,-10,Transfers user's status condition to the opponent.,Transfiere la condición de estado del usuario al oponente.
+Psyshock,Psicocarga,Psychc,Beautiful,Special,30,3d4,1,0,"Inflicts damage based on the target's defense, not special defense.","Inflige daño basado en la defensa del objetivo, no en una defensa especial."
+Psystrike,Onda mental,Psychc,Cool,Special,30,2d10,3,0,"Inflicts damage based on the target's defense, not special defense.","Inflige daño basado en la defensa del objetivo, no en una defensa especial."
+Psywave,Psicoonda,Psychc,Clever,Special,25,--,1,-20,"Damage is xd4, where X is the result of throwing 1d6 and half your level.","El daño es xd4, donde X es el resultado de lanzar 1d6 y la mitad de tu nivel."
+Punishment,Castigo,Dark,Cool,Physical,35,1d12,2,0,Power increases by 1d4 for each time the opponent has raised their stats.,El poder aumenta en 1d4 cada vez que el oponente ha aumentado sus estadísticas.
+Pursuit,Persecución,Dark,Clever,Physical,20,2d4,2,0,Double power if the opponent is switching out.,Doble poder si el oponente está cambiando.
+Quash,Último lugar,Dark,Clever,Other,25,--,3,0,Makes the target act last this turn.,Hace que el objetivo actúe durante este turno.
+Quick Attack,Ataque rápido,Normal,Cool,Physical,10,2d4,3,0,"User may use this move before opponent's moves, counting as an action for next user's turn.","El usuario puede usar este movimiento antes de los movimientos del oponente, contando como una acción para el turno del siguiente usuario."
+Quick Guard,Anticipo,Fight,Cool,Other,25,--,2,0,Protects the user's team from high-priority moves.,Protege al equipo del usuario de movimientos de alta prioridad.
+Quiver Dance,Danza aleteo,Bug,Beautiful,Other,20,--,1,0,"Adds +25 to user's special attack, special defense and speed.","Agrega +25 al ataque especial, defensa especial y velocidad del usuario."
+Rage,Furia,Normal,Tough,Physical,20,1d4,1,0,Adds +25 to user's attack when hit.,Agrega +25 al ataque del usuario cuando es golpeado.
+Rage Powder,Polvo ira,Bug,Clever,Other,20,--,3,0,"Forces attacks to hit user, not team-mates.","Obliga a que los ataques golpeen al usuario, no a sus compañeros de equipo."
+Rain Dance,Danza lluvia,Water,Beautiful,Other,35,--,1,0,Makes it rain for 5 turns.,Hace llover durante 5 turnos.
+Rapid Spin,Giro rápido,Normal,Cool,Physical,1,1d4,1,0,Adds +25 to user's speed and removes entry hazards and trap move effects.,Agrega +25 a la velocidad del usuario y elimina los peligros de entrada y los efectos de movimiento de trampa.
+Razor Leaf,Hoja afilada,Grass,Cool,Physical,15,1d10,4,-5,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100.
+Razor Shell,Concha filo,Water,Cool,Physical,30,3d4,3,-5,Throw 1d10 and if the result is equal to 1 it will lower opponent's defense.,Lanza 1d10 y si el resultado es igual a 1 bajará la defensa del oponente.
+Razor Wind,Viento cortante,Normal,Cool,Special,30,3d4,3,0,"Charges on first round, attacks on second. Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.","Cargas en el primer asalto, ataques en el segundo. Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100."
+Recover,Recuperación,Normal,Clever,Other,30,--,2,0,User recovers half its maximum HP.,El usuario recupera la mitad de su hp máximo.
+Recycle,Reciclaje,Normal,Clever,Other,30,--,1,0,User's used hold item is restored.,Se restaura el artículo en espera usado por el usuario.
+Reflect,Reflejo,Psychc,Clever,Other,20,--,2,0,Halves damage from physical attacks for 5 turns.,Reduce a la mitad el daño de los ataques físicos durante 5 turnos.
+Reflect Type,Clonatipo,Normal,Clever,Other,25,--,2,0,User becomes the target's type.,El usuario se convierte en el tipo de objetivo.
+Refresh,Alivio,Normal,Cute,Other,20,--,2,0,"Cures paralysis, poison, and burns.","Cura parálisis, envenenamiento y quemaduras."
+Relic Song,Canto arcaico,Normal,Beautiful,Special,30,3d4,2,0,Throw 1d10 and if the result is equal to 1 it will put the target to sleep.,Lanza 1d10 y si el resultado es igual a 1 pondrá a dormir al objetivo.
+Rest,Descanso,Psychc,Cute,Other,30,--,1,0,"User sleeps for 2 turns, but user is fully healed.","El usuario duerme durante 2 turnos, pero está completamente curado."
+Retaliate,Represalia,Normal,Cool,Physical,35,3d4,3,0,Inflicts double damage if a teammate fainted on the last round.,Inflige el doble de daño si un compañero de equipo se desmayó en la última ronda.
+Return,Retribución,Normal,Cute,Physical,20,1d6,4,0,Power increases by 1d6 with every level up done with the trainer (maximum increase of 5d6).,El poder aumenta en 1d6 con cada nivel que se realiza con el entrenador (aumento máximo de 5d6).
+Revenge,Desquite,Fight,Tough,Physical,30,1d12,2,0,"User charges until last this round, and power increases by 1d12 if the user was hit during the charging.",El usuario carga hasta el final de esta ronda y el poder aumenta en 1d12 si el usuario fue golpeado durante la carga.
+Reversal,Inversión,Fight,Cool,Physical,25,--,1,0,Damage is equal to user's maximum HP - user's current HP.,El daño es igual al HP máximo del usuario: el HP actual del usuario.
+Roar,Rugido,Normal,Cool,Other,20,--,3,0,"In battles, the opponent switches. In the wild, the pokémon runs.","En las batallas, el oponente cambia. En estado salvaje, el pokémon corre."
+Roar Of Time,Distorsión,Dragon,Beautiful,Special,35,3d10,4,-10,User must recharge next turn.,El usuario debe recargar el próximo turno.
+Rock Blast,Pedrada,Rock,Tough,Physical,30,1d4,1,-10,Attemps to hit 1d4+1 times in one turn.,Intenta acertar 1d4+1 veces en un turno.
+Rock Climb,Treparrocas,Normal,Tough,Physical,20,2d8,3,-15,Throw 1d10 and if the result is equal or less than 2 it will confuse opponent.,Lanza 1d10 y si el resultado es igual o menor que 2 confundirá al oponente.
+Rock Polish,Pulimento,Rock,Tough,Other,20,--,3,0,Adds +33 to user's speed.,Agrega +33 a la velocidad del usuario.
+Rock Slide,Avalancha,Rock,Tough,Physical,30,3d4,2,-10,Throw 1d10 and if the result is equal or less than 3 it will cause flinching. Hits all opposing pokémon in range.,Lanza 1d10 y si el resultado es igual o menor que 3 provocará un estremecimiento. Golpea a todos los Pokémon enemigos dentro de su alcance.
+Rock Smash,Golpe roca,Fight,Tough,Physical,25,2d4,4,0,Throw 1d10 and if the result is equal or less than 5 it will lower opponent's defense.,Lanza 1d10 y si el resultado es igual o menor a 5 bajará la defensa del oponente.
+Rock Throw,Lanzarrocas,Rock,Tough,Physical,25,1d10,4,-10,,
+Rock Tomb,Tumba rocas,Rock,Clever,Physical,30,1d10,3,-20,Reduces -25 to opponent's speed.,Reduce -25 a la velocidad del oponente.
+Rock Wrecker,Romperrocas,Rock,Tough,Physical,35,3d10,4,-10,User must recharge next turn.,El usuario debe recargar el próximo turno.
+Role Play,Imitación,Psychc,Cute,Other,30,--,1,0,User copies the opponent's ability.,El usuario copia la habilidad del oponente.
+Rolling Kick,Patada giro,Fight,Cool,Physical,25,1d12,4,-15,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Lanza 1d10 y si el resultado es igual o menor que 3 provocará un estremecimiento.
+Rollout,Rodar,Rock,Cute,Physical,20,1d6,3,-10,Adds 1d6 in power each turn for 5 turns. User cannot use another move.,Añade 1d6 de poder cada turno durante 5 turnos. El usuario no puede utilizar otro movimiento.
+Roost,Respiro,Flying,Clever,Other,30,--,4,0,User recovers half of its maximum HP and loses the flying type until next round.,El usuario recupera la mitad de su HP máximo y pierde el tipo volador hasta la siguiente ronda.
+Round,Canon,Normal,Beautiful,Special,25,1d12,2,0,Power increases if teammates use it in the same round.,El poder aumenta si los compañeros de equipo lo usan en la misma ronda.
+Sacred Fire,Fuego sagrado,Fire,Beautiful,Physical,35,2d10,3,-5,Throw 1d10 and if the result is equal or less than 5 it will burn opponent.,Lanza 1d10 y si el resultado es igual o menor a 5 quemará al oponente.
+Sacred Sword,Espada santa,Fight,Cool,Physical,20,2d8,2,0,Ignores opponent's stat changes.,Ignora los cambios de estadísticas del oponente.
+Safeguard,Velo sagrado,Normal,Beautiful,Other,15,--,2,0,The user's party is protected from status conditions.,La parte del usuario está protegida de las condiciones de estado.
+Sand attack,Ataque arena,Ground,Cute,Other,25,--,3,0,Reduces -25 to opponent's accuracy.,Reduce -25 a la precisión del oponente.
+Sand Tomb,Bucle arena,Ground,Clever,Physical,25,1d6,3,-15,"Traps opponent, damaging them for 3+1d2 turns.",Atrapa al oponente y lo daña durante 3+1d2 turnos.
+Sandstorm,Tormenta de arena,Rock,Tough,Other,30,--,2,0,Creates a sandstorm for 5 turns.,Crea una tormenta de arena durante 5 turnos.
+Scald,Escaldar,Water,Tough,Special,25,3d4,2,0,Throw 1d10 and if the result is equal or less than 3 it will burn opponent.,Lanza 1d10 y si el resultado es igual o menor a 3 quemará al oponente.
+Scary Face,Cara susto,Normal,Tough,Other,30,--,3,0,Reduces -50 to the opponent's speed.,Reduce -50 a la velocidad del oponente.
+Scratch,Arañazo,Normal,Tough,Physical,5,2d4,4,0,,
+Screech,Chirrido,Normal,Clever,Other,1,--,3,-15,Reduces -50 to the opponent's defense.,Reduce -50 a la defensa del oponente.
+Searing Shot,Bomba ígnea,Fire,Cool,Special,35,2d10,3,0,Throw 1d10 and if the result is equal or less than 3 it will burn opponent.,Lanza 1d10 y si el resultado es igual o menor a 3 quemará al oponente.
+Secret Power,Daño secreto,Normal,Clever,Physical,20,3d4,1,0,"Effects of the attack vary with the location; urban:paralysis, sand:reduces -25 to accuracy, cave:flinches, grass:sleep, water:reduces -25 to Attack, snow:freezes.","Los efectos del ataque varían según la ubicación; urbano:parálisis, arena:reduce -25 a la precisión, cueva:se estremece, hierba:dormir, agua:reduce -25 al ataque, nieve:se congela."
+Secret Sword,Sable místico,Fight,Beautiful,Special,30,2d8,3,0,"Inflicts damage based on the target's defense, not special defense.","Inflige daño basado en la defensa del objetivo, no en una defensa especial."
+Seed Bomb,Bomba germen,Grass,Tough,Physical,25,3d4,4,0,,
+Seed Flare,Fulgor semilla,Grass,Beautiful,Special,35,2d12,6,-15,Throw 1d10 and if the result is equal or less than 2 it will lower opponent's special defense.,Lanza 1d10 y si el resultado es igual o menor a 2 bajará la defensa especial del oponente.
+Seismic Toss,Sísmico,Fight,Tough,Physical,20,--,3,0,Inflicts damage equal to double the user's level.,Inflige daño equivalente al doble del nivel del usuario.
+Self-destruct,Autodestrucción,Normal,Beautiful,Physical,35,2d20,7,0,User faints. Hits all pokémon in range.,El usuario se desmaya. Golpea a todos los pokémon dentro del alcance.
+Shadow Ball,Bola sombra,Ghost,Clever,Special,25,3d4,4,0,Throw 1d10 and if the result is equal or less than 2 it will lower opponent's special defense.,Lanza 1d10 y si el resultado es igual o menor a 2 bajará la defensa especial del oponente.
+Shadow Claw,Garra umbría,Ghost,Cool,Physical,25,3d4,4,0,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Golpe crítico con 25 más que defensa o con 80 o más en la tirada de ataque 1d100.
+Shadow Force,Golpe umbrío,Ghost,Cool,Physical,35,2d12,1,0,"Disappears on first round, attacks on second. Can strike through protect/detect.","Desaparece en el primer asalto, ataca en el segundo. Puede atravesar protección/detección."
+Shadow Punch,Puño sombra,Ghost,Clever,Physical,20,1d12,2,0,Ignores defenses.,Ignora las defensas.
+Shadow Sneak,Sombra vil,Ghost,Clever,Physical,10,2d4,3,0,"User may use this move before opponent's moves, counting as an action for next user's turn.","El usuario puede usar este movimiento antes de los movimientos del oponente, contando como una acción para el turno del siguiente usuario."
+Sharpen,Afilar,Normal,Cute,Other,10,--,1,0,Adds +25 to user's attack.,Agrega +25 al ataque del usuario.
+Sheer Cold,Frío polar,Ice,Beautiful,Special,35,--,2,-70,"One-hit-ko, if it hits.","One-hit-ko, si acierta."
+Shell Smash,Rompecoraza,Normal,Tough,Other,25,--,3,0,"Adds +33 to user's attack, special attack and speed but reduces -25 to defense and special defense.","Agrega +33 al ataque, ataque especial y velocidad del usuario, pero reduce -25 a la defensa y la defensa especial."
+Shift Gear,Cambio de marcha,Steel,Clever,Other,30,--,1,0,Adds +25 to user's attack and adds +33 to speed.,Agrega +25 al ataque del usuario y agrega +33 a la velocidad.
+Shock Wave,Onda voltio,Electr,Cool,Special,20,1d12,2,0,Ignores defenses.,Ignores defenses.
+Signal Beam,Rayo señal,Bug,Beautiful,Special,25,3d4,3,0,Throw 1d10 and if the result is equal or less than 2 it will confuse opponent.,Throw 1d10 and if the result is equal or less than 2 it will confuse opponent.
+Silver Wind,Viento plata,Bug,Beautiful,Special,35,1d12,1,0,Throw 1d10 and if the result is equal to 1 it will raise all stats of user at once.,Throw 1d10 and if the result is equal to 1 it will raise all stats of user at once.
+Simple Beam,Onda simple,Normal,Cute,Other,25,--,3,0,Changes target's ability to simple.,Changes target's ability to simple.
+Sing,Canto,Normal,Cute,Other,25,--,2,-45,Puts opponent to sleep.,Puts opponent to sleep.
+Sketch,Esquema,Normal,Clever,Other,40,--,1,0,Permanently copies the opponent's last move for the duration of the battle.,Permanently copies the opponent's last move for the duration of the battle.
+Skill Swap,Intercambio,Psychc,Clever,Other,30,--,1,0,The user swaps abilities with the opponent.,The user swaps abilities with the opponent.
+Skull Bash,Cabezazo,Normal,Tough,Physical,25,2d10,3,0,"Adds +25 to defense on first round, attacks on second.","Adds +25 to defense on first round, attacks on second."
+Sky Attack,Ataque aéreo,Flying,Cool,Physical,35,3d8,3,-10,"Charges on first round, attacks on second. Throw 1d10 and if the result is equal or less than 3 it will cause flinching. Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.","Charges on first round, attacks on second. Throw 1d10 and if the result is equal or less than 3 it will cause flinching. Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll."
+Sky Drop,Caída libre,Flying,Tough,Physical,30,1d12,3,0,"Takes opponent into the air on first round, drops them on second round.","Takes opponent into the air on first round, drops them on second round."
+Sky Uppercut,Gancho alto,Fight,Cool,Physical,25,2d8,2,-10,"Hits the opponent, even during fly.","Hits the opponent, even during fly."
+Slack Off,Relajo,Normal,Cute,Other,30,--,4,0,User recovers half its maximum HP.,User recovers half its maximum hp.
+Slam,Atizar,Normal,Tough,Physical,20,3d4,4,-25,,
+Slash,Cuchillada,Normal,Cool,Physical,20,3d4,4,0,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.
+Sleep Powder,Somnífero,Grass,Clever,Other,25,--,1,-25,Puts opponent to sleep.,Puts opponent to sleep.
+Sleep Talk,Sonámbulo,Normal,Cute,Other,30,--,1,0,User performs one of its own moves while sleeping. The move is chosen by throwing 1d6.,User performs one of its own moves while sleeping. The move is chosen by throwing 1d6.
+Sludge,Residuos,Poison,Tough,Special,20,2d6,2,0,Throw 1d10 and if the result is equal or less than 3 it will poison opponent.,Throw 1d10 and if the result is equal or less than 3 it will poison opponent.
+Sludge Bomb,Bomba lodo,Poison,Tough,Special,30,2d8,2,0,Throw 1d10 and if the result is equal or less than 3 it will poison opponent.,Throw 1d10 and if the result is equal or less than 3 it will poison opponent.
+Sludge Wave,Onda tóxica,Poison,Tough,Special,30,2d8,3,0,Throw 1d10 and if the result is equal or less than 3 it will poison opponent. Hits all pokémon in range.,Throw 1d10 and if the result is equal or less than 3 it will poison opponent. Hits all pokémon in range.
+Smack Down,Antiaéreo,Rock,Tough,Physical,25,1d10,2,0,Makes flying-type pokémon vulnerable to ground moves.,Makes flying-type pokémon vulnerable to ground moves.
+Smelling salts,Estímulo,Normal,Tough,Physical,30,1d12,3,0,"Power doubles if opponent is paralyzed, but cures it.","Power doubles if opponent is paralyzed, but cures it."
+Smog,Polución,Poison,Tough,Special,20,1d4,4,-30,Throw 1d10 and if the result is equal or less than 4 it will poison opponent.,Throw 1d10 and if the result is equal or less than 4 it will poison opponent.
+Smokescreen,Pantalla de humo,Normal,Clever,Other,20,--,2,0,Reduces -25 to opponent's accuracy.,Reduces -25 to opponent's accuracy.
+Snarl,Alarido,Dark,Tough,Special,25,1d10,4,-5,Reduces -25 to opponent's special attack.,Reduces -25 to opponent's special attack.
+Snatch,Robo,Dark,Clever,Other,30,--,1,0,Steals the effects of the opponent's next move.,Steals the effects of the opponent's next move.
+Snore,Ronquido,Normal,Cute,Special,25,2d4,4,0,Can only be used if asleep. Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Can only be used if asleep. Throw 1d10 and if the result is equal or less than 3 it will cause flinching.
+Soak,Empapar,Water,Cute,Other,20,--,2,0,Changes the target's type to water.,Changes the target's type to water.
+Soft-boiled,Ovocuración,Normal,Cute,Other,30,--,2,0,User recovers half its maximum HP.,User recovers half its maximum hp.
+Solar beam,Rayo solar,Grass,Cool,Special,30,2d12,3,0,"Charges on first round, attacks on second.","Charges on first round, attacks on second."
+Sonic boom,Bomba sónica,Normal,Cool,Special,20,--,3,-10,Always inflicts 20 HP damage.,Always inflicts 20 hp damage.
+Spacial Rend,Corte vacío,Dragon,Beautiful,Special,35,2d10,6,-5,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.
+Spark,Chispa,Electr,Cool,Physical,20,2d6,4,0,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.
+Spider Web,Telaraña,Bug,Cool,Other,30,--,2,0,Opponent cannot escape/switch.,Opponent cannot escape/switch.
+Spike Cannon,Clavo cañón,Normal,Cool,Physical,25,1d4,1,0,Attemps to hit 1d4+1 times in one turn.,Attemps to hit 1d4+1 times in one turn.
+Spikes,Púas,Ground,Clever,Other,20,--,2,0,"Places spikes in an area of MAtt radius. For every layer, makes 1d6 damage to any pokénon that steps in, up to 3d6. Flying-type pokémon may ignore if not grounded.","Places spikes in an area of MAtt radius. For every layer, makes 1d6 damage to any pokénon that steps in, up to 3d6. Flying-type pokémon may ignore if not grounded."
+Spit Up,Escupir,Normal,Tough,Special,30,--,1,0,Makes 1d10 damage for every time the user performed Stockpile.,Makes 1d10 damage for every time the user performed Stockpile.
+Spite,Rencor,Ghost,Tough,Other,30,--,2,0,The opponent's last move loses 2d10 PP.,The opponent's last move loses 2d10 PP.
+Splash,Salpicadura,Normal,Cute,Other,1,--,4,0,Doesn't do anything.,Doesn't do anything.
+Spore,Espora,Grass,Beautiful,Other,25,--,1,0,Puts opponent to sleep.,Puts opponent to sleep.
+Stealth Rock,Trampa rocas,Rock,Cool,Other,20,--,2,0,"Places rocks in an area of MAtt radius. For every layer, makes 1d12 damage to any pokemon that steps in. Flying-type pokémon may ignore if not grounded.","Places rocks in an area of MAtt radius. For every layer, makes 1d12 damage to any pokemon that steps in. Flying-type pokémon may ignore if not grounded."
+Steamroller,Rodillo de púas,Bug,Tough,Physical,20,2d6,3,0,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.
+Steel Wing,Ala de acero,Steel,Cool,Physical,15,3d4,3,-10,Throw 1d10 and if the result is equal to 1 it will raise user's defense.,Throw 1d10 and if the result is equal to 1 it will raise user's defense.
+Stockpile,Reserva,Normal,Tough,Other,20,--,1,0,Stores energy for use with Spit Up and Swallow.,Stores energy for use with Spit Up and Swallow.
+Stomp,Pisotón,Normal,Tough,Physical,20,2d6,4,0,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.
+Stone Edge,Roca afilada,Rock,Tough,Physical,35,2d10,3,-20,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.,Critical hit with 25 more than defense or with 80 or more in the 1d100 attack roll.
+Stored Power,Poder reserva,Psychc,Clever,Special,30,1d4,1,0,Power increases by 1d4 for every time the user's stats have been raised.,Power increases by 1d4 for every time the user's stats have been raised.
+Storm Throw,Llave corsé,Fight,Cool,Physical,30,2d4,2,0,Always results in a critical hit.,Always results in a critical hit.
+Strength,Fuerza,Normal,Tough,Physical,25,3d4,4,0,,
+String Shot,Disparo demora,Bug,Clever,Other,1,--,2,-5,Reduces -50 to the opponent's speed.,Reduces -50 to the opponent's speed.
+Struggle Bug,Estoicismo,Bug,Cute,Special,20,1d6,2,0,Reduces -25 to opponent's special attack.,Reduces -25 to opponent's special attack.
+Stun Spore,Paralizador,Grass,Clever,Other,10,--,2,-25,Paralyzes opponent.,Paralyzes opponent.
+Submission,Sumisión,Fight,Cool,Physical,15,3d4,7,-20,User receives 1d2 recoil damage.,User receives 1d2 recoil damage.
+Substitute,Sustituto,Normal,Cute,Other,30,--,2,0,Uses 1d20 HP to creates a decoy next to user that takes hits. Decoy has as much HP as lost to create it.,Uses 1d20 HP to creates a decoy next to user that takes hits. Decoy has as much HP as lost to create it.
+Sucker Punch,Golpe bajo,Dark,Clever,Physical,35,3d4,3,0,"User may use this move before opponent's moves, counting as an action for next user's turn. But only works if opponent is readying an attack.","User may use this move before opponent's moves, counting as an action for next user's turn. But only works if opponent is readying an attack."
+Sunny Day,Día soleado,Fire,Beautiful,Other,35,--,1,0,Makes it sunny for 5 turns.,Makes it sunny for 5 turns.
+Super Fang,Superdiente,Normal,Tough,Physical,30,--,2,-10,Damage is always half the opponent's HP.,Damage is always half the opponent's HP.
+Superpower,Fuerza bruta,Fight,Tough,Physical,35,2d12,6,0,Reduces -25 to user's attack and defense.,Reduces -25 to user's attack and defense.
+Supersonic,Supersónico,Normal,Clever,Other,20,--,3,-45,Confuses opponent.,Confuses opponent.
+Surf,Surf,Water,Beautiful,Special,25,2d8,2,0,Hits all pokémon in range.,Hits all pokémon in range.
+Swagger,Contoneo,Normal,Cute,Other,25,--,3,-10,"Confuses opponent, but adds +33 to its attack.","Confuses opponent, but adds +33 to its attack."
+Swallow,Tragar,Normal,Tough,Other,30,--,2,0,Restores 1D10 HP for each time the user has performed Stockpile.,Restores 1D10 HP for each time the user has performed Stockpile.
+Sweet Kiss,Beso dulce,Normal,Cute,Other,30,--,2,-25,Confuses opponent.,Confuses opponent.
+Sweet Scent,Dulce aroma,Normal,Cute,Other,20,--,2,0,Reduces -25 to opponent's evasiveness.,Reduces -25 to opponent's evasiveness.
+Swift,Meteoros,Normal,Cool,Special,20,1d12,2,0,Ignores defenses.,Ignores defenses.
+Switcheroo,Trapicheo,Dark,Clever,Other,30,--,2,0,Swaps held items with the opponent.,Swaps held items with the opponent.
+Swords Dance,Danza espada,Normal,Beautiful,Other,10,--,1,0,Adds +33 to user's attack.,Adds +33 to user's attack.
+Synchronoise,Sincrorruido,Psychc,Clever,Special,25,3d4,2,0,Only hits any pokémon in range that shares a type with the user. Ignores defenses.,Only hits any pokémon in range that shares a type with the user. Ignores defenses.
+Synthesis,Síntesis,Grass,Clever,Other,35,--,1,0,"User recovers HP. Amount varies with the weather; if sunny recovers 2d12 HP, if normal recovers 2d6 HP, if any other weather recovers 1d6 HP.","User recovers HP. Amount varies with the weather; if sunny recovers 2d12 HP, if normal recovers 2d6 HP, if any other weather recovers 1d6 HP."
+Tackle,Placaje,Normal,Tough,Physical,5,1d10,4,0,,
+Tail Glow,Luminicola,Bug,Beautiful,Other,20,--,1,0,Adds +50 to user's special attack.,Adds +50 to user's special attack.
+Tail Slap,Plumerazo,Normal,Cute,Physical,30,1d4,1,-15,Attemps to hit 1d4+1 times in one turn.,Attemps to hit 1d4+1 times in one turn.
+Tail Whip,Látigo,Normal,Cute,Other,10,--,2,0,Reduces -25 to opponent's defense.,Reduces -25 to opponent's defense.
+Tailwind,Viento afín,Flying,Cool,Other,10,--,3,0,Doubles speed for 4 rounds.,Doubles speed for 4 rounds.
+Take Down,Derribo,Normal,Tough,Physical,20,2d8,6,-15,User receives 1d4 recoil damage.,User receives 1d4 recoil damage.
+Taunt,Mofa,Dark,Clever,Other,20,--,2,0,Opponent can only use moves that attack for 1+1d4 rounds.,Opponent can only use moves that attack for 1+1d4 rounds.
+Techno Blast,Tecno shock,Normal,Cool,Special,35,2d8,1,0,Type depends on the drive being held.,Type depends on the drive being held.
+Teeter Dance,Danza caos,Normal,Cute,Other,20,--,4,0,Confuses all pokémon in a range equal to MSpA.,Confuses all pokémon in a range equal to MSpA.
+Telekinesis,Telequinesis,Psychc,Clever,Other,25,--,2,0,"Ignores opponent's evasiveness for three rounds, add ground immunity.","Ignores opponent's evasiveness for three rounds, add ground immunity."
+Teleport,Teletransporte,Psychc,Cool,Other,20,--,1,0,Allows user to flee wild battles; also warps trainer(s) to last pokécenter.,Allows user to flee wild battles; also warps trainer(s) to last pokécenter.
+Thief,Ladrón,Dark,Tough,Physical,30,2d4,1,0,Also steals opponent's held item.,Also steals opponent's held item.
+Thrash,Saña,Normal,Tough,Physical,30,2d12,6,0,User attacks for 1+1d2 turns but then becomes confused.,User attacks for 1+1d2 turns but then becomes confused.
+Thunder,Trueno,Electr,Cool,Special,30,2d12,1,-30,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.
+Thunder Fang,Colmillo rayo,Electr,Cool,Physical,25,2d6,4,-5,"Throw 1d10 and if the result is equal to 1 it will paralyze opponent, and other throw 1d10 and if the result is equal or less than 3 it will cause flinching","Throw 1d10 and if the result is equal to 1 it will paralyze opponent, and other throw 1d10 and if the result is equal or less than 3 it will cause flinching"
+Thunder punch,Puño trueno,Electr,Cool,Physical,25,3d4,4,0,throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.,throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.
+Thunder shock,Impactrueno,Electr,Cool,Special,10,2d4,4,0,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.
+Thunder Wave,Onda trueno,Electr,Cool,Other,20,--,1,0,Paralyzes opponent.,Paralyzes opponent.
+Thunderbolt,Rayo,Electr,Cool,Special,25,2d8,4,0,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.,Throw 1d10 and if the result is equal or less than 3 it will paralyze opponent.
+Tickle,Cosquillas,Normal,Cute,Other,20,--,3,0,Reduces -25 to opponent's attack and defense.,Reduces -25 to opponent's attack and defense.
+Torment,Tormento,Dark,Tough,Other,25,--,2,0,Opponent cannot use the same move in a row.,Opponent cannot use the same move in a row.
+Toxic,Tóxico,Poison,Clever,Other,30,--,3,-10,Badly poisons opponent.,Badly poisons opponent.
+Toxic Spikes,Púas tóxicas,Poison,Clever,Other,20,--,2,0,"Sets poisoned pikes in a range equal to user's MAtt. Poisons any pokémon that step into them. If applied twice, badly poisons. Flying-type pokémon may ignore if not grounded.","Sets poisoned pikes in a range equal to user's MAtt. Poisons any pokémon that step into them. If applied twice, badly poisons. Flying-type pokémon may ignore if not grounded."
+Transform,Transformación,Normal,Clever,Other,30,--,3,0,User takes on the form and attacks of the opponent.,User takes on the form and attacks of the opponent.
+Tri Attack,Triataque,Normal,Beautiful,Special,30,3d4,1,0,"Throw 1d10 and if the result is equal to 1, 1d6 and it will paralyze(1/2), burn(3/4) or freeze(5/6) opponent.","Throw 1d10 and if the result is equal to 1, 1d6 and it will paralyze(1/2), burn(3/4) or freeze(5/6) opponent."
+Trick,Truco,Psychc,Clever,Other,30,--,2,0,Swaps held items with the opponent.,Swaps held items with the opponent.
+Trick Room,Espacio raro,Psychc,Clever,Other,35,--,3,0,"Invert turns order, slower pokémon being first for 5 rounds.","Invert turns order, slower pokémon being first for 5 rounds."
+Triple Kick,Triple patada,Fight,Cool,Physical,30,1d2,3,-10,Attemps to hit thrice in one turn at doubling power.,Attemps to hit thrice in one turn at doubling power.
+Trump Card,As oculto,Normal,Cool,Special,35,--,1,0,Total damage is equal to user's used PPs before using Trump Card.,Total damage is equal to user's used PPs before using Trump Card.
+Twineedle,Doble ataque,Bug,Cool,Physical,20,1d4,2,0,Attemps to hit twice in one turn. Throw 1d10 and if the result is equal or less than 3 it will poison opponent.,Attemps to hit twice in one turn. Throw 1d10 and if the result is equal or less than 3 it will poison opponent.
+Twister,Ciclón,Dragon,Cool,Special,20,2d4,4,0,Throw 1d10 and if the result is equal or less than 3 it will cause flinching. Hits pokémon using Fly/Bounce with double power.,Throw 1d10 and if the result is equal or less than 3 it will cause flinching. Hits pokémon using Fly/Bounce with double power.
+U-turn,Ida y vuelta,Bug,Cute,Physical,20,3d4,4,0,User switches places with ally immediately after attacking.,User switches places with ally immediately after attacking.
+Uproar,Alboroto,Normal,Cute,Special,30,2d8,2,0,User attacks for 3 turns and prevents sleep.,User attacks for 3 turns and prevents sleep.
+V-create,V de fuego,Fire,Cool,Physical,35,3d12,7,-5,"Reduces -25 to user's defense, special defense and speed.","Reduces -25 to user's defense, special defense and speed."
+Vacuum Wave,Onda vacío,Fight,Cool,Special,10,2d4,3,0,"User may use this move before opponent's moves, counting as an action for next user's turn.","User may use this move before opponent's moves, counting as an action for next user's turn."
+Venoshock,Carga tóxica,Poison,Beautiful,Special,30,2d6,2,0,Inflicts double damage if the target is poisoned.,Inflicts double damage if the target is poisoned.
+Vine Whip,Látigo cepa,Grass,Cool,Physical,25,1d6,4,0,,
+Vise grip,Agarre,Normal,Tough,Physical,10,1d10,4,0,,
+Vital Throw,Llave vital,Fight,Cool,Physical,30,3d4,2,0,"User attacks last, but ignores defenses.","User attacks last, but ignores defenses."
+Volt Switch,Voltiocambio,Electr,Cool,Special,20,3d4,4,0,User must switch out after attacking.,User must switch out after attacking.
+Volt Tackle,Placaje eléctrico,Electr,Cool,Physical,25,2d12,7,0,User receives 2d4 damage. 1d10 and if the result is equal to 1 it will paralyze opponent.,User receives 2d4 damage. 1d10 and if the result is equal to 1 it will paralyze opponent.
+Wake-up Slap,Espabila,Fight,Tough,Physical,30,1d12,3,0,"Power doubles if opponent is asleep, but wakes it up.","Power doubles if opponent is asleep, but wakes it up."
+Water Gun,Pistola agua,Water,Cute,Special,15,2d4,4,0,,
+Water Pledge,Voto agua,Water,Beautiful,Special,30,1d10,2,0,Added effects appear if preceded by fire pledge or succeeded by grass pledge.,Added effects appear if preceded by fire pledge or succeeded by grass pledge.
+Water Pulse,Hidropulso,Water,Beautiful,Special,20,1d12,3,0,Throw 1d10 and if the result is equal or less than 2 it will confuse opponent.,Throw 1d10 and if the result is equal or less than 2 it will confuse opponent.
+Water Sport,Hidrochorro,Water,Cute,Other,25,--,2,0,Weakens the power of fire-type moves.,Weakens the power of fire-type moves.
+Water Spout,Salpicar,Water,Beautiful,Special,35,3d10,6,0,"The higher the user's HP, the higher the damage caused. Hits all opposing pokémon in range.","The higher the user's hp, the higher the damage caused. Hits all opposing pokémon in range."
+Waterfall,Cascada,Water,Tough,Physical,25,3d4,4,0,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.
+Weather Ball,Meteorobola,Normal,Beautiful,Special,30,1d10,3,0,"Move's type changes with the weather. If sunny: Fire-type, if raining: Water-type, if hailing or snowing: Ice-type, if sandstorm: Rock-type, otherwise Normal-type.","Move's type changes with the weather. If sunny: Fire-type, if raining: Water-type, if hailing or snowing: Ice-type, if sandstorm: Rock-type, otherwise Normal-type."
+Whirlpool,Torbellino,Water,Beautiful,Special,25,1d6,3,-15,"Traps opponent, damaging them for 3+1d2 turns.","Traps opponent, damaging them for 3+1d2 turns."
+Whirlwind,Remolino,Normal,Clever,Other,20,--,3,0,"In battles, the opponent switches. In the wild, the pokémon runs.","In battles, the opponent switches. In the wild, the pokémon runs."
+Wide Guard,Vasta guardia,Rock,Tough,Other,30,--,1,0,Protects the user's team from multi-target attacks.,Protects the user's team from multi-target attacks.
+Wild Charge,Voltio cruel,Electr,Tough,Physical,25,2d8,6,0,User receives 1d4 recoil damage.,User receives 1d4 recoil damage.
+Will-o-wisp,Fuego fatuo,Fire,Beautiful,Other,25,--,3,-25,Burns opponent.,Burns opponent.
+Wing Attack,Ataque ala,Flying,Cool,Physical,5,1d12,4,0,,
+Wish,Deseo,Normal,Cute,Other,30,--,3,0,The user half their HP in the following turn.,The user half their hp in the following turn.
+Withdraw,Refugio,Water,Cute,Other,1,--,2,0,Adds +25 to user's defense.,Adds +25 to user's defense.
+Wonder Room,Zona extraña,Psychc,Clever,Other,30,--,3,0,Swaps every pokémon's defense and special defense for 5 rounds.,Swaps every pokémon's defense and special defense for 5 rounds.
+Wood Hammer,Mazazo,Grass,Tough,Physical,25,2d12,6,0,User receives 2d4 recoil damage.,User receives 2d4 recoil damage.
+Work Up,Avivar,Normal,Tough,Other,10,--,3,0,Adds +25 to user's attack and special attack.,Adds +25 to user's attack and special attack.
+Worry Seed,Abatidoras,Grass,Clever,Other,30,--,2,0,Changes the opponent's ability to insomnia.,Changes the opponent's ability to insomnia.
+Wrap,Constricción,Normal,Tough,Physical,20,1d2,3,-10,"Traps opponent, damaging them for 3+1d2 turns.","Traps opponent, damaging them for 3+1d2 turns."
+Wring Out,Estrujón,Normal,Tough,Special,35,1d10,2,0,"If user's remaining HP is more than half, adds 1d10 damage.","If user's remaining HP is more than half, adds 1d10 damage."
+X-scissor,Tijera X,Bug,Cool,Physical,25,3d4,2,0,,
+Yawn,Bostezo,Normal,Cute,Other,30,--,2,0,Puts opponent to sleep in the next turn.,Puts opponent to sleep in the next turn.
+Zap Cannon,Electrocañón,Electr,Cool,Special,35,2d12,2,-50,Paralyzes opponent.,Paralyzes opponent.
+Zen Headbutt,Cabezazo zen,Psychc,Clever,Physical,25,3d4,4,-10,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.,Throw 1d10 and if the result is equal or less than 3 it will cause flinching.

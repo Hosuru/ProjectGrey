@@ -1,321 +1,320 @@
-### Habilidad
+#### Habilidad
 Efecto
 
-### Absorbe agua
+#### Absorbe agua
 Si lo alcanza un movimiento de tipo agua, recupera HP igual a la cantidad de daño en vez de sufrirlo.
 
-### Absorbe fuego
+#### Absorbe fuego
 Si lo alcanza un movimiento de tipo fuego, potencia su siguiente movimientos de dicho tipo por la mitad del daño absorbido.
 
-### Adaptabilidad
+#### Adaptabilidad
 Los movimientos cuyo tipo coincida con el usuario reciben dos veces el bono de nivel.
 
-### Afortunado
+#### Afortunado
 Su buena suerte aumenta la probabilidad de asestar golpes críticos, reduciendo la necesidad de realizar el crítico en -25 a la diferencia con la defensa del objetivo y en -5 a la tirada de el 1d100. 
 
-### Agallas
+#### Agallas
 Si sufre de un problema de estado, se arma de valor y aumenta su ataque en 50.
 
-### Alerta
+#### Alerta
 Revela uno de los movimientos del rival al entrar en combate.
 
-### Allanamiento
+#### Allanamiento
 Ataca ignorando las barreras o el sustituo del objetivo.
 
-### Alma cura
+#### Alma cura
 Al finalizar el turno, si un aliado sufre un problema de estado, lanza 1d10, si el resultado es menor o igual a 3, cura un problema de estaod.
 
-### Armadura frágil
+#### Armadura frágil
 Al recibir el daño de un ataque físico, se reduce su defensa en -25, pero aumenta su velocidad en 50.
 
-### Audaz
+#### Audaz
 Duplica el bono por estadística en los movimientos que también dañan al usuario.
 
-### Autoestima
+#### Autoestima
 Al debilitar a un objetivo, su confianza se refuerza de tal manera que aumenta su ataque en 50.
 
-### Bromista
+#### Bromista
 Sus movimientos de estado pueden ser realizados antes de que un oponente utilice su movimiento, contando como un movimiento utilizado en el turno siguiente del usuario.
 
-### Cacheo
+#### Cacheo
 Revela el objeto que lleva el rival al entrar en combate.
 
-### Cálculo final
+#### Cálculo final
 Si es el usuario es último en atacar en la ronda, sus ataques hacen como mínimo la mitad posible del daño.
 
-### Caparazón
+#### Caparazón
 La robusta coraza que lo protege bloquea los golpes críticos.
 
-### Clorofila
+#### Clorofila
 Aumena la velocidad en 50 cuando hace sol.
 
-### Cobardía
+#### Cobardía
 Si lo alcanza un ataque de tipo siniestro, bicho o fantasma, o si sufre los efectos de intimidación, el miedo hace que aumente su velocidad en 50.
 
-### Colector
+#### Colector
 Atrae y neutraliza los movimientos de tipo agua, además le aumentan el ataque especial en 25.
 
-### Competitivo
+#### Competitivo
 Aumenta su ataque en 50 cuando el rival le reduce cualquiera de sus características.
 
-### Cromolente
+#### Cromolente
 Potencia los movimientos que no son muy eficaces, que infligen ahora un daño normal.
 
-### Cuerpo llama
+#### Cuerpo llama
 Al recibir un movimiento de contacto lanza 1d10, si el resultado es menor o igual a 3, quema al atacante.
 
-### Cuerpo maldito
+#### Cuerpo maldito
 Luego de recibir daño lanza 1d10, si el resultado es menor o igual a 3, anula el movimiento por 4 turnos.
 
-### Cuerpo puro
+#### Cuerpo puro
 Evita que se reduzcan sus características a causa de movimientos o habilidades de otros pokemon.
 
-### Defensa hoja
+#### Defensa hoja
 Evita problemas de estado si hace sol. No cura problemas de estado previos.
 
-### Descarga
+#### Descarga
 Compara la defensa y la defensa especial de un rival para ver cuál es inferior y aumenta su propio ataque o ataque especial según sea lo más eficaz.
 
-### Detonacion
+#### Detonacion
 Daña 1d20 HP al pokémon que le ha dado el golpe de gracia con un movimiento de contacto.
 
-### Dicha
+#### Dicha
 La probabilidad de que los movimientos cuasen efectos secundarios aumenta en 1.
 
-### Efecto espora
+#### Efecto espora
 Al recibir un movimiento de contacto lanza 1d10, si el resultado es 1, lanza 1d6. En 1 o 2 envenena, en 3 o 4 duerme, en 5 o 6 paraliza al pokémon atacante.
 
-### Electricidad estática
+#### Electricidad estática
 La electricidad estática que lo envuelve puede paralizar al pokemon que lo ataque con movimientos de contacto. Lanza 1d10 y si el resultado es 3 o menor, paraliza al atacante.
 
-### Electromotor
+#### Electromotor
 Si le alcanza un movimiento de tipo eléctrico, aumenta su velocidad por 25 en vez de sufir daño.
 
-### Encadenado
+#### Encadenado
 Ejecuta siempre los movimientos de ataque múltiple con el número máximo de golpes.
 
-### Enjambre
+#### Enjambre
 Duplica los dados utilizados en movimientos de tipo bicho cuando el HP está por debajo del 20%.
 
-### Entusiasmo
+#### Entusiasmo
 Aumenta su ataque la mitad del total, pero cada vez que quiere realizar un ataque físico, reduce la tirada de 1d100 de ataque a la mitad.
 
-### Espesura
+#### Espesura
 Duplica los dados utilizados en movimientos de tipo planta cuando el HP está por debajo del 20%.
 
-### Espíritu vital
+#### Espíritu vital
 Su determinación le impide quedarse dormido.
 
-### Experto
+#### Experto
 Duplica la potencia de sus movimientos que utilicen d4s.
 
-### Flaqueza
+#### Flaqueza
 Cuando sus PS se ven reducidos a la mitad, se cansa tanto que su ataque y su ataque especial también se ven reducidos a la mitad.
 
-### Flexibilidad
+#### Flexibilidad
 Evita ser paralizado gracias a la flexibilidad de su cuerpo.
 
-### Fuerza mental
+#### Fuerza mental
 Gracias a su profunda concentración, no retrocede ante los ataques de otros pokemon ni sufre los efectos de intimidación.
 
-### Fuga
+#### Fuga
 Puede escapar de cualquier pokemon salvaje.
 
-### Funda
+#### Funda
 No recibe daño de las tormentas de arena y del granizo.
 
-### Gélido
+#### Gélido
 Recupera una décima de HP cuando nieva.
 
-### Gran encanto
+#### Gran encanto
 Si el pokémon que ataca es del sexo opuesto, lanza 1d10, si el resultado es menor o igual a 3, causa enamoramiento al pokemon atacante.
 
-### Gula
+#### Gula
 Cuando sus PS se ven reducidos a la mitad, engulle la baya que normalmente solo se comería cuando le quedasen pocos PS.
 
-### Hedor
+#### Hedor
 Puede hacer retroceder a un pokemon al atacarlo debido al mal olor que emana. Lanza 1d10 y si el resultado es 1, el atacante retrocede en su próximo turno.
 
-### Hervíboro
+#### Hervíboro
 Si lo alcanza un ataque de tipo planta, aumenta su ataque en 25 en vez de sufrir daño.
 
-### Hidratación
+#### Hidratación
 Cura los problemas de estado si está lloviendo.
 
-### Humedad
+#### Humedad
 Aumanta la humedad del entorno y evita que se puedan utilizar movimientos explosivos, tales como autodestrucción.
 
-### Humo blanco
+#### Humo blanco
 El humo blanco que lo protege evita que otros pokemon le reduzcan las características.
 
-### Ignorante
+#### Ignorante
 Pasa por alto los cambios de características de un pokemon al atacarlo o recibir daño.
 
-### Iluminación
+#### Iluminación
 Al iluminar su entorno, evita que su presición se reduzca.
 
-### Ilusión
+#### Ilusión
 Adopta el aspecto del un pokemon del equipo al entrar en combate para desconcertar al rival.
 
-### �?mpetu arena
+#### �?mpetu arena
 Aumenta su velocidad en 50 durante las tormentas de arena.
 
-### Indefenso
+#### Indefenso
 Al quedar ambos expuestos, tanto sus movimientos como los del pokemon que lo ataque acertarán siempre.
 
-### Insonorizar
+#### Insonorizar
 Su aislamiento acústico lo protege de movimientos que usan sonido.
 
-### Intimidación
+#### Intimidación
 Al entrar en combate, amilana al rival de tal manera que reduce su ataque en 50 puntos.
 
-### Intrépido
+#### Intrépido
 Alcanza a pokemon de tipo fantasma con movimientos de tipo normal o lucha. Además, no sufre los efectos de intimidación.
 
-### Irascible
+#### Irascible
 Si recibe un golpe crítico, monta en cólera y su ataque aumenta al máximo.
 
-### Justiciero
+#### Justiciero
 Si le alcanza un movimiento de tipo siniestro, aumenta el ataque en 25 debido a si integridad.
 
-### Levitación
+#### Levitación
 Su capacidad de flotar sobre el suelo le proporciona inmunidad frente a los movimientos de tipo tierra.
 
-### Liviano
+#### Liviano
 Aumenta su velocidad en 50 si usa o pierde el objeto que lleva.
 
-### Manto níveo
+#### Manto níveo
 Aumenta su evación en 50 cuando nieva.
 
-### Mar llamas
+#### Mar llamas
 Duplica los dados utilizados en movimientos de tipo fuego cuando el HP está por debajo del 20%.
 
-### Más
+#### Más
 Aumenta su Ataque Especial por 50 si un pokemon aliado tiene la habilidad más o la habilidad menos.
 
-### Menos
+#### Menos
 Aumenta su Ataque Especial en 50 si un pokemon aliado tiene la habilidad más o la habilidad menos.
 
-### Modo daruma
+#### Modo daruma
 Cambia de forma si sus PS se ven reducidos a la mitad o menos.
 
-### Momia
+#### Momia
 Contagia la habilidad momia al pokemon que lo ataque con un movimiento de contacto.
 
-### Mudar
+#### Mudar
 Al finalizar el turno, lanza 1d10 y si el resultado es menor o igual a 3 cura sus problemas de estado al mudar la piel.
 
-### Muro mágico
+#### Muro mágico
 Solo recibe daño de ataques.
 
-### Nado rápido
+#### Nado rápido
 Aumenta su velocidad en 50 cuando llueve o en entornos acuáticos.
 
-### Nerviosismo
+#### Nerviosismo
 Pone nervioso al rival y le impide usar bayas.
 
-### Ojo compuesto
+#### Ojo compuesto
 Aumenta la presición de sus movimientos en 50.
 
-### Pararrayos
+#### Pararrayos
 Atrae y neutraliza los movimientos de tipo eléctrico mientras se esté en el rango del atacante, que además le aumentan el ataque especial en 25.
 
-### Pereza
+#### Pereza
 Al ejecutar un movimiento, descansará en el turno siguiente.
 
-### Piel milagro
+#### Piel milagro
 Reduce a la mitad la probabilidad de recibir movimientos de estado.
 
-### Piel tosca
+#### Piel tosca
 Hiere con su piel áspera al pokemon que lo ataque con un movimiento de contacto por 1d12.
 
-### Piés rápidos
+#### Piés rápidos
 Aumenta su velocidad en 50 si sufre de efectos de estado.
 
-### Poder arena
+#### Poder arena
 Duplica el bono de daño por estadística los movimientos de tipo tierra, acero y roca durante las tormentas de arena.
 
-### Potencia bruta
+#### Potencia bruta
 Duplica el bono de daño por estadística la potencia de sus movimientos en detrimento de los efectos secundarios, que se ven anulados.
 
-### Presión
+#### Presión
 Presiona al rival de tal manera que este consume el doble de PPs al usar sus movimientos.
 
-### Puño férreo
+#### Puño férreo
 Duplica la potencia de los movimientos con los puños.
 
-### Punta acero
+#### Punta acero
 Inflinge un total de 1d6 de daño con sus púas de acero al pokemon que lo ataque con un movimiento de contacto.
 
-### Punto tóxico
+#### Punto tóxico
 Al recibir un movimiento de contacto 1d10, si el resutlado es menor o igual a 3, envenena al atacante.
 
-### Recogida
+#### Recogida
 Puede recoger objetos que otros pokemon hayan usado, o bien aquellos que encuentre en plena aventura.
 
-### Regeneración
+#### Regeneración
 Recupera xd4 HP cuando se retira del combate, siendo x el nivel del usuario.
 
-### Respondón
+#### Respondón
 Invierte los cambios en las características: bajan cuando les toca subir y suben cuando les toca bajar.
 
-### Ritmo propio
+#### Ritmo propio
 Como le gusta hacer las cosas a su manera, no le afecta la confusión ni sufre de efectos de intimidación.
 
-### Rivalidad
+#### Rivalidad
 Si el objetivo es del mismo sexo, su competitividad le lleva a duplicar el bono de daño por estadística. Si es del sexo contrario, en cambio, no realiza bono de daño por estadística.
 
-### Robustez
+#### Robustez
 El pokemon no puede debilitarse de un solo golpe cuando tiene los PS al máximo. También resiste los movimientos fulminantes.
 
-### Roca sólida
+#### Roca sólida
 Mitiga el daño que le inflingen los movimientos supereficaces.
 
-### Rompemoldes
+#### Rompemoldes
 Sus movimientos no se ven afectados por la habilidad del objetivo.
 
-### Sacapecho
+#### Sacapecho
 Impide que otros pokemon le reduzcan la defensa.
 
-### Sebo
+#### Sebo
 Gracias a la gruesa capa de grasa que lo protege, reduce a la mitad el daño que recibe de ataques de tipo fuego o hielo.
 
-### Simple
+#### Simple
 Duplica los cambios de características.
 
-### Sincronía
+#### Sincronía
 Contagia el envenenamiento, las quemaduras o la parálisis al pokemon que le cause ese estado.
 
-### Sombra trampa
+#### Sombra trampa
 Pisa la sombra del rival para impedir que huya o lo cambien por otro.
 
-### Telepatía
+#### Telepatía
 Elude los ataques de los aliados durante el combate.
 
-### Terravoltaje
+#### Terravoltaje
 Sus movimientos no se ven afectados por la habilidad del objetivo.
 
-### Tinovictoria
+#### Tinovictoria
 Aumenta su presición y la de los aliados en 25.
 
-### Toque tóxico
+#### Toque tóxico
 Al recibir un movimiento de contacto 1d10, si el resutlado es menor o igual a 3, envenena al atacante.
 
-### Torrente
+#### Torrente
 Duplica los dados utilizados en movimientos de tipo agua cuando el HP está por debajo del 20%.
 
-### Turbollama
+#### Turbollama
 Sus movimientos no se ven afectados por la habilidad del objetivo.
 
-### Velo arena
+#### Velo arena
 Aumenta la evación en 25 durante las tormentas de arena.
 
-### Viscocidad
+#### Viscocidad
 Los objetos se quedan pegados a su cuerpo, por lo que no pueden robárselos.
 
-### Vista lince
+#### Vista lince
 Su aguda vista evita que su precisión se reduzca.
 
-### Zoquete
+#### Zoquete
 No puede usar objetos equipados.
-
