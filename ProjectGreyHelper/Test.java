@@ -1,34 +1,21 @@
 package ProjectGreyHelper;
 
 public class Test{
+    static private String ARCHIVODATOS = "Moves base.csv";
+    static private String ARCHIVODESTINO = "testTemp.txt";
+
     public static void main(String[] args){
+        // 560 = no. line in file.
+        // manual imput.
+        String[][] matrix = new String[560][];
 
-        /*
-        String[][] matrix = MyResources.scanNow("Pokemon base.csv", ",", 160);
-        int i = 1;
+        matrix = MyResources.csvToTxt(ARCHIVODATOS, 560, ",");
 
-        // I wanna see every pokemon name, but only the names
-        for (String[] x : matrix) {
-            System.out.print(x[1]);
-            i++;
-
-            if(i==10){
-                i=1;
-                System.out.print("\n");
-            } else
-                System.out.print(" ");
-        }*/
-
-        String[] line = MyResources.scanLine("Pokemon base.csv", ",", 1);
-        
-        for (String x : line) {
-            System.out.print(x + " ");
-        }
-
-        line = MyResources.scanLine("Pokemon base.csv", ",", 2);
-        
-        for (String x : line) {
-            System.out.print(x + " ");
+        for (Object x[] : matrix) {
+            for (Object y : x) {
+                System.out.print(y + "\t");
+            }
+            System.out.print("\n");
         }
     }
 }
