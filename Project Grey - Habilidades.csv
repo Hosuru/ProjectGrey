@@ -75,7 +75,7 @@ Lightning rod;Pararrayos;The Pokémon draws in all Electric-type moves while in 
 Truant;Pereza;Each time the Pokémon uses a move, it spends the next turn loafing around.;Al ejecutar un movimiento, descansará en el turno siguiente.
 Wonder Skin;Piel milagro;Reduces by half the probability of receiving status moves.;Reduce a la mitad la probabilidad de recibir movimientos de estado.
 Rough Skin;Piel tosca;The Pokémon's rough skin damages in 1d12 to attackers that make direct contact with it.;Hiere con su piel áspera al pokemon que lo ataque con un movimiento de contacto por 1d12.
-Duplica el bono de daño por estadística a los movimientos que también dañan al usuario.;Piés rápidos;Boosts the Speed stat by 50 if the Pokémon has a status condition.;Aumenta su velocidad en 50 si sufre de efectos de estado.
+Quick Feet;Piés rápidos;Boosts the Speed stat by 50 if the Pokémon has a status condition.;Aumenta su velocidad en 50 si sufre de efectos de estado.
 Sand Force;Poder arena;Doubles the stat damage bonus of Rock-, Ground-, and Steel-type moves in a sandstorm.;Duplica el bono de daño por estadística los movimientos de tipo tierra, acero y roca durante las tormentas de arena.
 Sheer Force;Potencia bruta;Removes any additional effects from the Pokémon's moves, but doubles the moves' stat damage bonus.;Duplica el bono de daño por estadística la potencia de sus movimientos en detrimento de los efectos secundarios, que se ven anulados.
 Pressure;Presión;Puts other Pokémon under pressure, causing them to expend more PP to use their moves.;Presiona al rival de tal manera que este consume el doble de PPs al usar sus movimientos.

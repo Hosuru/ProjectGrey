@@ -20,4 +20,27 @@ public class MyResources{
         }
         return output;
     }
+
+    // now the idea is to make a full json with EVERYTHING called GENV.json, but for THAT, first we gotta:
+    //  - make sure that every pokemon has all the information there, both english and spanish
+    //      - for that we need to make something that searches through matrixes
+
+    public static String[] lineFinder(String firstEntry, String[][] matrix){
+        boolean foundF = false;
+        String[] output = null;
+
+        for (String x[] : matrix) {
+            if(x[0].equals(firstEntry)){
+                output = x;
+                foundF = true;
+            }
+        }
+
+        if(!foundF){
+            System.err.println("data" + firstEntry + "not found");
+            return null;
+        } else {
+            return output;
+        }
+    }
 }
