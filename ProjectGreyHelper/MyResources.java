@@ -1,17 +1,18 @@
 package ProjectGreyHelper;
 
 import java.io.BufferedReader;
-import java.io.FileReader;
+import java.io.FileInputStream;
+import java.io.InputStreamReader;
 
 public class MyResources{
     public static String[][] csvToTxt(String data, int lines, String delimiter){
         String[][] output = new String[lines][];
         int x = 0;
 
-        try (BufferedReader br = new BufferedReader(new FileReader(data))){
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream(data), "UTF-8"))){
             String line;
             while ((line = br.readLine()) != null){
-                String[] values = line.split(delimiter);
+                String[] values = line.split(delimiter,-1);
                 output[x] = values;
                 x++;
             }

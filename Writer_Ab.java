@@ -4,8 +4,8 @@ import java.io.FileWriter;
 
 public class Writer_Ab {
     
-    static private String ARCHIVODATOS = "Project Grey - Habilidades.csv";
-    static private int LINEASDATOS = 107;
+    static private String ARCHIVODATOS = "Project Grey - Moves CSV.csv";
+    static private int LINEASDATOS = 559;
     static private String ARCHIVODESTINO = "temp.txt";
 
     public static void writeItDown (String data, String temp){
@@ -13,11 +13,16 @@ public class Writer_Ab {
         String[][] pseudoFile = MyResources.csvToTxt(data, LINEASDATOS, ";");
         
         try (BufferedWriter wr = new BufferedWriter(new FileWriter(temp))){
-            for (Object line[] : pseudoFile) {
-                String input = "### " + line[1] + "\n" + line[3];
-                wr.write(input,0,input.length());
-                wr.newLine();
-                wr.newLine();
+            int i = 0;
+            for (String line[] : pseudoFile) {
+                if(i != 0){
+                    Move move = new Move(line);
+                    String output = move.toFile(i);
+                    wr.write(output);
+                    wr.newLine();
+                    wr.newLine();
+                }
+                i++;
             }
         } catch (Exception e){
             System.err.println("Something went wrong: " + e.getMessage());

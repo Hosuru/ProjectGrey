@@ -46,7 +46,32 @@ public class Move {
         return output;
     }
 
-    public String toStringEng(){
+    public String toFile(int i){
+        String output = "";
+
+        output += "#### " + nombre + "{{color:#cca983,width:13px,position:relative,top:-1px #" + i + "}}" + "\n";
+
+        output += "![" + type.toString() + "](" + type.ImageLinkSp() + "){height:15px,position:relative,top:5px} ![" + category.toString() + "](" + category.ImageLinkSp() + "){height:15px,position:relative,top:2.5px}" + "\n";
+        
+        if(!dam.equals("--")){
+            output += "**Daño:** :: " + dam + "\n";
+        }
+        
+        output += "**Concurso:** :: " + appeal + "d10 ![" + theme.toString() + "](" + theme.ImageLinkSp() + "){height:15px,position:relative,top:2.5px}" + "\n";
+        
+        if(acc != 0){
+            output += "**Precisión:** :: 1d100 " + acc + "\n";
+        } else {
+            output += "**Precisión:** :: 1d100\n";
+        }
+        
+        output += desSP;
+
+        return output;
+    }
+
+    @Override
+    public String toString(){
         String output;
 
         if(acc == 0){
