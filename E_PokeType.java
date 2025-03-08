@@ -16,6 +16,7 @@ public enum E_PokeType {
     GRASS,
     NORMAL,
     ROCK,
+    FAIRY,
     NULL,
     TOUGH,
     CLEVER,
@@ -62,6 +63,8 @@ public enum E_PokeType {
                 return NORMAL;
             case "Rock":
                 return ROCK;
+            case "Fairy":
+                return FAIRY;
             case "Tough":
                 return TOUGH;
             case "Clever":
@@ -119,6 +122,8 @@ public enum E_PokeType {
                 return "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/99/latest/20221208180705/Tipo_normal_EP.png/120px-Tipo_normal_EP.png";
             case ROCK:
                 return "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/8/88/latest/20221208180726/Tipo_roca_EP.png/120px-Tipo_roca_EP.png";
+            case FAIRY:
+                return "https://images.wikidexcdn.net/mwuploads/wikidex/thumb/9/97/latest/20221208180633/Tipo_hada_EP.png/120px-Tipo_hada_EP.png";
             case TOUGH:
                 return "https://images.wikidexcdn.net/mwuploads/wikidex/b/be/latest/20170114102119/Tipo_dureza.gif";
             case CUTE:
@@ -176,6 +181,8 @@ public enum E_PokeType {
                 return "https://archives.bulbagarden.net/media/upload/thumb/0/08/NormalIC_SV.png/105px-NormalIC_SV.png";
             case ROCK:
                 return "https://archives.bulbagarden.net/media/upload/thumb/3/32/RockIC_SV.png/105px-RockIC_SV.png";
+            case FAIRY:
+                return "https://archives.bulbagarden.net/media/upload/thumb/c/c6/FairyIC_SV.png/105px-FairyIC_SV.png";
             case TOUGH:
                 return "https://archives.bulbagarden.net/media/upload/b/ba/Tough_icon.png";
             case CUTE:
